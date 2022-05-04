@@ -1,0 +1,149 @@
+#nosotros {
+    height: max-content;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .nosotros-intro {
+        margin-top: 2em;
+        flex-direction: column;
+        align-items: center;
+        width: 90%;
+
+        h1 {
+            @include titulo;
+        }
+
+        h2 {
+            @include subtitulo;
+        }
+
+        p {
+            @include texto;
+            padding-left: 2em;
+            padding-right: 2em;
+        }
+
+        a {
+            .btn {
+                background-color: $button;
+                color: $button-text;
+                font-family: $raleway;
+                padding: 0.5em;
+                width: 10em;
+                margin-left: 10em;
+
+                &:hover {
+                    transform: scale(1.1);
+                }
+            }
+        }
+
+    }
+
+    .nosotros-card {
+        width: 80%;
+        margin-left: 1em;
+        margin-top: 1em;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .nosotros-card-1 {
+            display: flex;
+            flex-direction: row;
+            width: 70%;
+            justify-content: center;
+            gap: 1em;
+            align-items: center;
+
+            .walter {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                padding: 1em;
+                text-align: center;
+                border-style: none;
+                // background-color: $background;
+
+                h3 {
+                    @include subtitulo;
+                    font-size: 25px;
+                }
+
+                p {
+                    color: $parragraph;
+                    text-align: center;
+                    font-size: 18px;
+                    font-family: $raleway;
+                }
+
+                .nosotrosImg {
+                    width: 10em;
+                    height: auto;
+                    margin-top: 1em;
+                }
+            }
+
+            .icono {
+                width: 6em;
+                height: 6em;
+            }
+
+            .ariel {
+                @extend .walter;
+            }
+        }
+
+    }
+
+    .nosotros-card-2 {
+        @extend .nosotros-card-1;
+
+        .patricio {
+            @extend .walter;
+        }
+    }
+}
+
+@media screen and (min-width: 900px) {
+    #nosotros {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+
+        .nosotros-intro {
+            margin-top: 4em;
+            width: 50%;
+            flex-direction: column;
+            align-items: center;
+            
+
+        }
+
+    }
+
+    .nosotros-card {
+        width: 50%;
+
+        .nosotros-card-1 {
+            justify-content: space-evenly;
+
+            .walter {
+                .nosotrosImg {
+                    width: 13em;
+                    height: auto;
+                }
+            }
+            .ariel{
+                .nosotrosImg{
+                    width: 9em;
+                    height: auto;
+                }
+            }
+        }
+    }
+}

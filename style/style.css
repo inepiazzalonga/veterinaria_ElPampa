@@ -1,0 +1,694 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;500&family=Open+Sans:wght@300&family=Playfair+Display&family=Poppins:wght@200&family=Raleway:wght@200&display=swap");
+.navbar {
+  position: fixed;
+  background-color: none;
+  width: 100%;
+  height: 4em;
+  opacity: 80%;
+}
+
+.navbar .navbar-brand img {
+  width: 5em;
+  height: auto;
+}
+
+.navbar .nav-link {
+  font-family: "Montserrat", sans-serif;
+  color: #634f28;
+  font-weight: 500;
+}
+
+.navbar .nav-link:hover {
+  border-bottom: 2px #716040 solid;
+}
+
+#home {
+  width: 100%;
+  height: 625px;
+  background-image: url(../fotos/IMG_0464.JPG);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+@media screen and (min-width: 600px) {
+  .navbar {
+    position: fixed;
+    background-color: none;
+    width: 100%;
+    height: 4em;
+    opacity: 80%;
+  }
+  .navbar .navbar-brand img {
+    width: 5em;
+    height: auto;
+  }
+  .navbar .nav-link {
+    font-family: "Montserrat", sans-serif;
+    color: #634f28;
+    font-weight: 500;
+  }
+  .navbar .nav-link:hover {
+    border-bottom: 2px #716040 solid;
+  }
+  #home {
+    width: 100%;
+    height: 625px;
+    background-image: url(../fotos/IMG_0464.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+  }
+}
+
+#nosotros {
+  height: -webkit-max-content;
+  height: -moz-max-content;
+  height: max-content;
+  width: 100%;
+  background-color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#nosotros .nosotros-intro {
+  margin-top: 2em;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 90%;
+}
+
+#nosotros .nosotros-intro h1 {
+  color: #09113a;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 40px;
+}
+
+#nosotros .nosotros-intro h2 {
+  color: #09113a;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 35px;
+}
+
+#nosotros .nosotros-intro p {
+  color: #716040;
+  text-align: justify;
+  font-size: 20px;
+  font-family: "Raleway", sans-serif;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+#nosotros .nosotros-intro a .btn {
+  background-color: #bea97e;
+  color: #fffffe;
+  font-family: "Raleway", sans-serif;
+  padding: 0.5em;
+  width: 10em;
+  margin-left: 10em;
+}
+
+#nosotros .nosotros-intro a .btn:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+#nosotros .nosotros-card {
+  width: 80%;
+  margin-left: 1em;
+  margin-top: 1em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#nosotros .nosotros-card .nosotros-card-1, #nosotros .nosotros-card .nosotros-card-2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  width: 70%;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  gap: 1em;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#nosotros .nosotros-card .nosotros-card-1 .walter, #nosotros .nosotros-card .nosotros-card-2 .walter, #nosotros .nosotros-card .nosotros-card-1 .ariel, #nosotros .nosotros-card .nosotros-card-2 .ariel, #nosotros .nosotros-card-2 .nosotros-card .nosotros-card-1 .patricio, #nosotros .nosotros-card .nosotros-card-2 .patricio {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 1em;
+  text-align: center;
+  border-style: none;
+}
+
+#nosotros .nosotros-card .nosotros-card-1 .walter h3, #nosotros .nosotros-card .nosotros-card-2 .walter h3, #nosotros .nosotros-card .nosotros-card-1 .ariel h3, #nosotros .nosotros-card .nosotros-card-2 .ariel h3, #nosotros .nosotros-card-2 .nosotros-card .nosotros-card-1 .patricio h3, #nosotros .nosotros-card .nosotros-card-2 .patricio h3 {
+  color: #09113a;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 35px;
+  font-size: 25px;
+}
+
+#nosotros .nosotros-card .nosotros-card-1 .walter p, #nosotros .nosotros-card .nosotros-card-2 .walter p, #nosotros .nosotros-card .nosotros-card-1 .ariel p, #nosotros .nosotros-card .nosotros-card-2 .ariel p, #nosotros .nosotros-card-2 .nosotros-card .nosotros-card-1 .patricio p, #nosotros .nosotros-card .nosotros-card-2 .patricio p {
+  color: #716040;
+  text-align: center;
+  font-size: 18px;
+  font-family: "Raleway", sans-serif;
+}
+
+#nosotros .nosotros-card .nosotros-card-1 .walter .nosotrosImg, #nosotros .nosotros-card .nosotros-card-2 .walter .nosotrosImg, #nosotros .nosotros-card .nosotros-card-1 .ariel .nosotrosImg, #nosotros .nosotros-card .nosotros-card-2 .ariel .nosotrosImg, #nosotros .nosotros-card-2 .nosotros-card .nosotros-card-1 .patricio .nosotrosImg, #nosotros .nosotros-card .nosotros-card-2 .patricio .nosotrosImg {
+  width: 10em;
+  height: auto;
+  margin-top: 1em;
+}
+
+#nosotros .nosotros-card .nosotros-card-1 .icono, #nosotros .nosotros-card .nosotros-card-2 .icono {
+  width: 6em;
+  height: 6em;
+}
+
+@media screen and (min-width: 900px) {
+  #nosotros {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  #nosotros .nosotros-intro {
+    margin-top: 4em;
+    width: 50%;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .nosotros-card {
+    width: 50%;
+  }
+  .nosotros-card .nosotros-card-1, .nosotros-card #nosotros .nosotros-card-2, #nosotros .nosotros-card .nosotros-card-2 {
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+  }
+  .nosotros-card .nosotros-card-1 .walter .nosotrosImg, .nosotros-card #nosotros .nosotros-card-2 .walter .nosotrosImg, #nosotros .nosotros-card .nosotros-card-2 .walter .nosotrosImg, #nosotros .nosotros-card .nosotros-card-1 .ariel .nosotrosImg, .nosotros-card #nosotros .nosotros-card .nosotros-card-2 .ariel .nosotrosImg, #nosotros .nosotros-card .nosotros-card-2 .ariel .nosotrosImg, #nosotros .nosotros-card-2 .nosotros-card .nosotros-card-1 .patricio .nosotrosImg, .nosotros-card #nosotros .nosotros-card-2 .patricio .nosotrosImg, #nosotros .nosotros-card .nosotros-card-2 .patricio .nosotrosImg {
+    width: 13em;
+    height: auto;
+  }
+  .nosotros-card .nosotros-card-1 .ariel .nosotrosImg, .nosotros-card #nosotros .nosotros-card-2 .ariel .nosotrosImg, #nosotros .nosotros-card .nosotros-card-2 .ariel .nosotrosImg {
+    width: 9em;
+    height: auto;
+  }
+}
+
+#servicios {
+  height: -webkit-max-content;
+  height: -moz-max-content;
+  height: max-content;
+  background-color: #f9f4ef;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 1em;
+}
+
+#servicios .servicios {
+  width: 90%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  gap: 3em;
+}
+
+#servicios .servicios .servicios1, #servicios .servicios .servicios2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 5em;
+}
+
+#servicios .servicios .servicios1 #sanidad, #servicios .servicios .servicios2 #sanidad, #servicios .servicios .servicios1 #reproduccion, #servicios .servicios .servicios2 #reproduccion, #servicios .servicios .servicios1 #analisis, #servicios .servicios .servicios2 #analisis, #servicios .servicios .servicios1 #asesoramiento, #servicios .servicios .servicios2 #asesoramiento {
+  width: 12em;
+  height: 8em;
+  padding: 2em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#servicios .servicios .servicios1 #sanidad .servTit, #servicios .servicios .servicios2 #sanidad .servTit, #servicios .servicios .servicios1 #reproduccion .servTit, #servicios .servicios .servicios2 #reproduccion .servTit, #servicios .servicios .servicios1 #analisis .servTit, #servicios .servicios .servicios2 #analisis .servTit, #servicios .servicios .servicios1 #asesoramiento .servTit, #servicios .servicios .servicios2 #asesoramiento .servTit {
+  text-align: center;
+}
+
+#servicios .servicios .servicios1 #sanidad h3, #servicios .servicios .servicios2 #sanidad h3, #servicios .servicios .servicios1 #reproduccion h3, #servicios .servicios .servicios2 #reproduccion h3, #servicios .servicios .servicios1 #analisis h3, #servicios .servicios .servicios2 #analisis h3, #servicios .servicios .servicios1 #asesoramiento h3, #servicios .servicios .servicios2 #asesoramiento h3 {
+  text-align: center;
+  font-size: 18px;
+  font-family: "Raleway", sans-serif;
+  color: #716040;
+  font-weight: bolder;
+}
+
+#servicios .servicios .servicios1 #sanidad img, #servicios .servicios .servicios2 #sanidad img, #servicios .servicios .servicios1 #reproduccion img, #servicios .servicios .servicios2 #reproduccion img, #servicios .servicios .servicios1 #analisis img, #servicios .servicios .servicios2 #analisis img, #servicios .servicios .servicios1 #asesoramiento img, #servicios .servicios .servicios2 #asesoramiento img {
+  width: 5em;
+  height: 5em;
+  margin-top: 1em;
+}
+
+#servicios .servicios .servicios1 #sanidad .masInfo, #servicios .servicios .servicios2 #sanidad .masInfo, #servicios .servicios .servicios1 #reproduccion .masInfo, #servicios .servicios .servicios2 #reproduccion .masInfo, #servicios .servicios .servicios1 #analisis .masInfo, #servicios .servicios .servicios2 #analisis .masInfo, #servicios .servicios .servicios1 #asesoramiento .masInfo, #servicios .servicios .servicios2 #asesoramiento .masInfo {
+  width: 7em;
+  margin-top: 1em;
+}
+
+#servicios .servicios .servicios1 #sanidad .masInfo:hover, #servicios .servicios .servicios2 #sanidad .masInfo:hover, #servicios .servicios .servicios1 #reproduccion .masInfo:hover, #servicios .servicios .servicios2 #reproduccion .masInfo:hover, #servicios .servicios .servicios1 #analisis .masInfo:hover, #servicios .servicios .servicios2 #analisis .masInfo:hover, #servicios .servicios .servicios1 #asesoramiento .masInfo:hover, #servicios .servicios .servicios2 #asesoramiento .masInfo:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  border-style: none;
+}
+
+#servicios .servicios button {
+  background-color: #bea97e;
+  color: #fffffe;
+  font-family: "Raleway", sans-serif;
+  padding: 0.5em;
+  width: 10em;
+  border-style: none;
+  border-radius: 30px;
+}
+
+#servicios .servicios button:hover {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #bea97e;
+  -webkit-transition: 1s;
+  transition: 1s;
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+#servicios .serviciosInfo {
+  height: -webkit-max-content;
+  height: -moz-max-content;
+  height: max-content;
+  width: 90%;
+  padding: 1em;
+  background-color: rgba(255, 255, 255, 0.831);
+  border-radius: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-top: 7em;
+}
+
+#servicios .serviciosInfo h3 {
+  text-align: center;
+  margin-top: 1em;
+  color: #09113a;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 40px;
+}
+
+#servicios .serviciosInfo h2 {
+  color: #09113a;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 40px;
+  margin-top: 1em;
+}
+
+#servicios .serviciosInfo p {
+  color: #716040;
+  text-align: justify;
+  font-size: 20px;
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  color: #716040;
+  padding: 1em;
+}
+
+@media screen and (min-width: 900px) {
+  #servicios {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    width: 100%;
+  }
+  #servicios .servicios {
+    width: 50%;
+  }
+  #servicios .serviciosInfo {
+    width: 50%;
+  }
+}
+
+.footer {
+  width: 100%;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  background-color: #fffffe;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 1em;
+}
+
+.footer .footer1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.footer .footer1 .logoFooter {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 1em;
+}
+
+.footer .footer1 .logoFooter img {
+  width: 7em;
+  height: 7em;
+}
+
+.footer .footer1 .logoFooter p {
+  color: #716040;
+  text-align: justify;
+  font-size: 20px;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+}
+
+.footer .footer1 .mapaSitio {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 1em;
+  border-left-color: #bea97e;
+  border-left-style: solid;
+  border-left-width: 1px;
+  padding: 2em;
+}
+
+.footer .footer1 .mapaSitio a {
+  color: #716040;
+  text-align: justify;
+  font-size: 20px;
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  margin-top: 1em;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.footer .footer2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-top: 2em;
+  padding: 1em;
+}
+
+.footer .footer2 .suscribe {
+  margin-right: 4em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 1em;
+}
+
+.footer .footer2 .suscribe .btn {
+  background-color: #bea97e;
+  color: #fffffe;
+  font-family: "Raleway", sans-serif;
+  padding: 0.5em;
+  width: 10em;
+  margin-left: 10em;
+  border-style: none;
+  border-radius: 2%;
+}
+
+.footer .footer2 .suscribe .btn:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.footer .footer2 .suscribe h5 {
+  color: #716040;
+  text-align: justify;
+  font-size: 20px;
+  font-family: "Raleway", sans-serif;
+}
+
+.footer .footer2 .redes {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.footer .footer2 .redes a img {
+  width: 2em;
+  height: 2em;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+@media screen and (min-width: 900px) {
+  .footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+}
+
+.navbar-contacto {
+  display: inline-block;
+}
+
+.navbar-contacto .navbar-brand {
+  width: 5em;
+  height: 5em;
+}
+
+.contacto {
+  height: 600px;
+  background-color: #f9f4ef;
+  padding-top: 5em;
+  padding-left: 2em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.contacto .mapa {
+  width: 50%;
+}
+
+.contacto .form {
+  width: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 1em;
+}
+
+.contacto .form #name, .contacto .form #email, .contacto .form #select {
+  width: 25em;
+  border-style: none;
+  outline: none;
+  border-bottom: 1px #716040 solid;
+  background-color: transparent;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+}
+
+.contacto .form #select option {
+  font-weight: bold;
+}
+
+.contacto .form #textArea {
+  width: 25em;
+  outline: none;
+  background-color: transparent;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+  border-style: 1px #716040 solid;
+}
+
+.contacto .form .enviar {
+  border-style: none;
+  background-color: #bea97e;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  width: 15em;
+  border-radius: 30px;
+  padding: 0.5em;
+  color: #fff;
+}
+
+.contacto .form .enviar:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+/*# sourceMappingURL=style.css.map */

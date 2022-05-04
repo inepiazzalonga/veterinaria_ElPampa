@@ -1,0 +1,4754 @@
+[
+ {
+   "codigo": 527,
+   "nombre": "Abrazadera y manguera p/ lanza",
+   "precio": 756,
+   "iva": 21
+ },
+ {
+   "codigo": 648,
+   "nombre": "Acay Molusquicida x 100 grs.",
+   "precio": 161,
+   "iva": 21
+ },
+ {
+   "codigo": 649,
+   "nombre": "Acay Molusquicida x 200 grs.",
+   "precio": 134.1,
+   "iva": 21
+ },
+ {
+   "codigo": 530,
+   "nombre": "Acedan gotas",
+   "precio": 322.5,
+   "iva": 21
+ },
+ {
+   "codigo": 223,
+   "nombre": "Acedan x 1 cn.",
+   "precio": 90,
+   "iva": 21
+ },
+ {
+   "codigo": 217,
+   "nombre": "Acedan x 50 ml.",
+   "precio": 1519,
+   "iva": 21
+ },
+ {
+   "codigo": 397,
+   "nombre": "Aceite curativo x 500 ml.",
+   "precio": 1138.8,
+   "iva": 21
+ },
+ {
+   "codigo": 289,
+   "nombre": "Aceite de Pata x 1 Lts.",
+   "precio": 642.88,
+   "iva": 21
+ },
+ {
+   "codigo": 814,
+   "nombre": "Acetrin x 10 ml",
+   "precio": 706.71,
+   "iva": 21
+ },
+ {
+   "codigo": 776,
+   "nombre": "Acuprin x 500 ml.",
+   "precio": 1750,
+   "iva": 21
+ },
+ {
+   "codigo": 233,
+   "nombre": "Advantix 40Kg",
+   "precio": 765.8,
+   "iva": 21
+ },
+ {
+   "codigo": 232,
+   "nombre": "Advantix de 10 Kg.",
+   "precio": 581,
+   "iva": 21
+ },
+ {
+   "codigo": 240,
+   "nombre": "Advantix de 25 Kg.",
+   "precio": 646.8,
+   "iva": 21
+ },
+ {
+   "codigo": 239,
+   "nombre": "Aftosa oleosa",
+   "precio": 173.07,
+   "iva": 0
+ },
+ {
+   "codigo": 144,
+   "nombre": "Aguja descartable 25 x 8 Verde",
+   "precio": 5.12,
+   "iva": 21
+ },
+ {
+   "codigo": 775,
+   "nombre": "Aguja descartable 40X16 Blanco",
+   "precio": 6.3,
+   "iva": 21
+ },
+ {
+   "codigo": 143,
+   "nombre": "Aguja descartable 40x12 rosa",
+   "precio": 6,
+   "iva": 21
+ },
+ {
+   "codigo": 832,
+   "nombre": "Aguja intraruminal",
+   "precio": 1288,
+   "iva": 21
+ },
+ {
+   "codigo": 171,
+   "nombre": "Aguja Lider 12 x 1.8",
+   "precio": 65.8,
+   "iva": 21
+ },
+ {
+   "codigo": 685,
+   "nombre": "Aguja Lider 15 x 18",
+   "precio": 65.8,
+   "iva": 21
+ },
+ {
+   "codigo": 146,
+   "nombre": "Aguja Lider 20 x 2.0",
+   "precio": 65.8,
+   "iva": 21
+ },
+ {
+   "codigo": 145,
+   "nombre": "Aguja Lider 40 x 20",
+   "precio": 65.8,
+   "iva": 21
+ },
+ {
+   "codigo": 138,
+   "nombre": "Aguja para pinza All Flex",
+   "precio": 562.8,
+   "iva": 21
+ },
+ {
+   "codigo": 169,
+   "nombre": "Aguja punza matic",
+   "precio": 494,
+   "iva": 21
+ },
+ {
+   "codigo": 541,
+   "nombre": "Aguja semi curva mediana",
+   "precio": 252,
+   "iva": 21
+ },
+ {
+   "codigo": 623,
+   "nombre": "Airmix x 60 ds.",
+   "precio": 1638,
+   "iva": 21
+ },
+ {
+   "codigo": 80,
+   "nombre": "Aislador ajustable dare a rosc",
+   "precio": 44.1,
+   "iva": 21
+ },
+ {
+   "codigo": 922,
+   "nombre": "Aislador blanco con gancho",
+   "precio": 45.36,
+   "iva": 21
+ },
+ {
+   "codigo": 81,
+   "nombre": "Aislador campanita con traba",
+   "precio": 26.18,
+   "iva": 21
+ },
+ {
+   "codigo": 343,
+   "nombre": "Aislador campanita solo",
+   "precio": 23.1,
+   "iva": 21
+ },
+ {
+   "codigo": 82,
+   "nombre": "Aislador movil con gancho",
+   "precio": 56,
+   "iva": 21
+ },
+ {
+   "codigo": 811,
+   "nombre": "Aislador movil sin gancho",
+   "precio": 21,
+   "iva": 21
+ },
+ {
+   "codigo": 920,
+   "nombre": "Aislador Picana completo",
+   "precio": 73.8,
+   "iva": 21
+ },
+ {
+   "codigo": 921,
+   "nombre": "Aislador Picana solo para clavar",
+   "precio": 46.2,
+   "iva": 21
+ },
+ {
+   "codigo": 330,
+   "nombre": "Aislador Pin Lock",
+   "precio": 42,
+   "iva": 21
+ },
+ {
+   "codigo": 762,
+   "nombre": "Aislador para mastil",
+   "precio": 1162,
+   "iva": 21
+ },
+ {
+   "codigo": 804,
+   "nombre": "Aislador para poste Z",
+   "precio": 94.43,
+   "iva": 21
+ },
+ {
+   "codigo": 83,
+   "nombre": "Aislador rienda (colorados)",
+   "precio": 61.6,
+   "iva": 21
+ },
+ {
+   "codigo": 150,
+   "nombre": "Aislador rienda blanco liviano",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 84,
+   "nombre": "Aislador rienda super (blancos",
+   "precio": 99.4,
+   "iva": 21
+ },
+ {
+   "codigo": 85,
+   "nombre": "Aislador roldana",
+   "precio": 30.8,
+   "iva": 21
+ },
+ {
+   "codigo": 264,
+   "nombre": "Aislador separador palo largo",
+   "precio": 177.8,
+   "iva": 21
+ },
+ {
+   "codigo": 302,
+   "nombre": "Aislador separador corto SM.",
+   "precio": 84,
+   "iva": 21
+ },
+ {
+   "codigo": 86,
+   "nombre": "Aislador solo para clavar",
+   "precio": 19.6,
+   "iva": 21
+ },
+ {
+   "codigo": 283,
+   "nombre": "Aislador tipo W",
+   "precio": 40.04,
+   "iva": 21
+ },
+ {
+   "codigo": 385,
+   "nombre": "Alimento Cachorros Petting x15",
+   "precio": 3010.5,
+   "iva": 21
+ },
+ {
+   "codigo": 458,
+   "nombre": "Alimento Cooperaci�n x 15 kg.",
+   "precio": 1824,
+   "iva": 21
+ },
+ {
+   "codigo": 880,
+   "nombre": "Alimento Gato Sabrosito por 1 Kg",
+   "precio": 285,
+   "iva": 21
+ },
+ {
+   "codigo": 898,
+   "nombre": "Alimento Mr Dipi x 20 kg.",
+   "precio": 3234,
+   "iva": 21
+ },
+ {
+   "codigo": 879,
+   "nombre": "Alimento Petting Adulto x 1 Kg",
+   "precio": 239.4,
+   "iva": 21
+ },
+ {
+   "codigo": 281,
+   "nombre": "Alimento Petting adulto x 15",
+   "precio": 2545.5,
+   "iva": 21
+ },
+ {
+   "codigo": 903,
+   "nombre": "Alimento peces Shulet x 10 grs",
+   "precio": 185,
+   "iva": 21
+ },
+ {
+   "codigo": 885,
+   "nombre": "Alimento procan cachorros x 1 kg.",
+   "precio": 326.4,
+   "iva": 21
+ },
+ {
+   "codigo": 886,
+   "nombre": "Alimento procan gatos x 1 kg",
+   "precio": 438,
+   "iva": 21
+ },
+ {
+   "codigo": 550,
+   "nombre": "Alliance feedlot x 50 ds.",
+   "precio": 824.72,
+   "iva": 21
+ },
+ {
+   "codigo": 496,
+   "nombre": "Amoxicilina LA X100 ML.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 681,
+   "nombre": "Amoxicilina x 1 kg.",
+   "precio": 2349.45,
+   "iva": 21
+ },
+ {
+   "codigo": 551,
+   "nombre": "Anhelmint equinos x 6 grs",
+   "precio": 682.24,
+   "iva": 21
+ },
+ {
+   "codigo": 173,
+   "nombre": "Anillo lastrator",
+   "precio": 8.4,
+   "iva": 21
+ },
+ {
+   "codigo": 607,
+   "nombre": "Antidiarreico D.F. x 20 ml.",
+   "precio": 110.5,
+   "iva": 21
+ },
+ {
+   "codigo": 418,
+   "nombre": "Antiflamatorio x 50 ml,",
+   "precio": 219.61,
+   "iva": 21
+ },
+ {
+   "codigo": 189,
+   "nombre": "Antigeno Brucelico x 10 ml.",
+   "precio": 1148,
+   "iva": 21
+ },
+ {
+   "codigo": 199,
+   "nombre": "Antigeno brucelico x 1 cn.",
+   "precio": 126,
+   "iva": 21
+ },
+ {
+   "codigo": 166,
+   "nombre": "Antihistaminico x 20 ml.",
+   "precio": 802.81,
+   "iva": 21
+ },
+ {
+   "codigo": 238,
+   "nombre": "Antitet�nica x 10 ds.",
+   "precio": 576,
+   "iva": 21
+ },
+ {
+   "codigo": 187,
+   "nombre": "Antitet�nica x 2 Ds.",
+   "precio": 171,
+   "iva": 21
+ },
+ {
+   "codigo": 852,
+   "nombre": "Argolla mediana n3",
+   "precio": 300,
+   "iva": 21
+ },
+ {
+   "codigo": 851,
+   "nombre": "Argollas para lazo n5",
+   "precio": 450,
+   "iva": 21
+ },
+ {
+   "codigo": 842,
+   "nombre": "Arnes de tiro ajustable gde",
+   "precio": 915,
+   "iva": 21
+ },
+ {
+   "codigo": 787,
+   "nombre": "Arreador de fibra de vidrio",
+   "precio": 1750,
+   "iva": 21
+ },
+ {
+   "codigo": 337,
+   "nombre": "Arreador electronico largo CJB",
+   "precio": 7980,
+   "iva": 10.5
+ },
+ {
+   "codigo": 396,
+   "nombre": "Arreador electronico mini CJB",
+   "precio": 6580,
+   "iva": 10.5
+ },
+ {
+   "codigo": 413,
+   "nombre": "Arreador PIC RAF",
+   "precio": 8235,
+   "iva": 21
+ },
+ {
+   "codigo": 391,
+   "nombre": "Arreadores",
+   "precio": 2100,
+   "iva": 21
+ },
+ {
+   "codigo": 629,
+   "nombre": "Arreglo de electrificador",
+   "precio": 580,
+   "iva": 21
+ },
+ {
+   "codigo": 813,
+   "nombre": "Articulos rurales varios",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 125,
+   "nombre": "Asuntol polvo x 100 grs.",
+   "precio": 375,
+   "iva": 21
+ },
+ {
+   "codigo": 119,
+   "nombre": "Atomo desinflamante x 100 grs.",
+   "precio": 893.2,
+   "iva": 21
+ },
+ {
+   "codigo": 904,
+   "nombre": "Auspicio Almanaques 2021 y 2022",
+   "precio": 30000,
+   "iva": 21
+ },
+ {
+   "codigo": 260,
+   "nombre": "Aut-Pietin X 500 ML.",
+   "precio": 3136,
+   "iva": 21
+ },
+ {
+   "codigo": 124,
+   "nombre": "Axilur cerdos x 50 grs.",
+   "precio": 161,
+   "iva": 21
+ },
+ {
+   "codigo": 425,
+   "nombre": "Azadieno x 20 ml.",
+   "precio": 322,
+   "iva": 21
+ },
+ {
+   "codigo": 539,
+   "nombre": "a",
+   "precio": 300,
+   "iva": 21
+ },
+ {
+   "codigo": 447,
+   "nombre": "arreglo se�alador Villa Nueva",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 159,
+   "nombre": "Babosil liquido x 100",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 18,
+   "nombre": "Babosil polvo x 200 grs.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 451,
+   "nombre": "Babotox x 100 Grs.",
+   "precio": 270,
+   "iva": 21
+ },
+ {
+   "codigo": 523,
+   "nombre": "Bacterias sobre x 50 Grs.",
+   "precio": 26,
+   "iva": 21
+ },
+ {
+   "codigo": 674,
+   "nombre": "Bactrovet Plata A.M. X 440 ML.",
+   "precio": 630,
+   "iva": 21
+ },
+ {
+   "codigo": 856,
+   "nombre": "Baken Plus gatos x 4 comp.",
+   "precio": 249.85,
+   "iva": 21
+ },
+ {
+   "codigo": 338,
+   "nombre": "Balance cobre x 500",
+   "precio": 1420,
+   "iva": 21
+ },
+ {
+   "codigo": 426,
+   "nombre": "Balance Magnesio x 500 ml.",
+   "precio": 876.4,
+   "iva": 21
+ },
+ {
+   "codigo": 399,
+   "nombre": "Banamine x10 ml.",
+   "precio": 356.2,
+   "iva": 21
+ },
+ {
+   "codigo": 864,
+   "nombre": "Basken gatos past x 2,5 kg x pastilla",
+   "precio": 144,
+   "iva": 21
+ },
+ {
+   "codigo": 229,
+   "nombre": "Basken Suspenci�n x 15 ml.",
+   "precio": 465,
+   "iva": 21
+ },
+ {
+   "codigo": 455,
+   "nombre": "Basto de suela",
+   "precio": 10220,
+   "iva": 21
+ },
+ {
+   "codigo": 372,
+   "nombre": "Baymec 1 % NF x 500 ml.",
+   "precio": 2513,
+   "iva": 21
+ },
+ {
+   "codigo": 373,
+   "nombre": "Baymec 3,15 x 500 ml.",
+   "precio": 4891.92,
+   "iva": 21
+ },
+ {
+   "codigo": 482,
+   "nombre": "Bayo Clostridial 9 x 50 Ds.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": null,
+   "nombre": "Bayofly K x 5 Lts.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 481,
+   "nombre": "Bayovac Neumo Querato x 50 ds.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 375,
+   "nombre": "Bayovac Neuno x 50 Ds.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 376,
+   "nombre": "Bayovac Querato x 80 Ds.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 378,
+   "nombre": "Bayovac Triple x 62 Ds.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 318,
+   "nombre": "Bayticol x 1 lts.",
+   "precio": 35247.32,
+   "iva": 21
+ },
+ {
+   "codigo": null,
+   "nombre": "Baytril al 5% x 100 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 247,
+   "nombre": "Baytril Max x 100 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 312,
+   "nombre": "Bayverm PI x 500 ml",
+   "precio": 4298.61,
+   "iva": 21
+ },
+ {
+   "codigo": 327,
+   "nombre": "Bebederos de acero cerdos",
+   "precio": 644,
+   "iva": 21
+ },
+ {
+   "codigo": 331,
+   "nombre": "Bebederos de acero lechones",
+   "precio": 1225,
+   "iva": 21
+ },
+ {
+   "codigo": 117,
+   "nombre": "Bebenrat x 1 ml.",
+   "precio": 75,
+   "iva": 21
+ },
+ {
+   "codigo": 571,
+   "nombre": "Benzoato de Estradil x 100 ml.",
+   "precio": 952,
+   "iva": 21
+ },
+ {
+   "codigo": 423,
+   "nombre": "Bifectacel 10% Co+Se.",
+   "precio": 2331,
+   "iva": 21
+ },
+ {
+   "codigo": 588,
+   "nombre": "Biggland x 20 ml.",
+   "precio": 151.03,
+   "iva": 21
+ },
+ {
+   "codigo": 305,
+   "nombre": "Bimoxil LA x 100 cc",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 463,
+   "nombre": "Bisagra p/ tranquera n�2",
+   "precio": 2450,
+   "iva": 21
+ },
+ {
+   "codigo": 154,
+   "nombre": "Bisagra para tranquera n� 5",
+   "precio": 5110,
+   "iva": 21
+ },
+ {
+   "codigo": 606,
+   "nombre": "Bisagra para tranquera n� 4",
+   "precio": 3500,
+   "iva": 21
+ },
+ {
+   "codigo": 729,
+   "nombre": "Boquilla completa Giber",
+   "precio": 952,
+   "iva": 21
+ },
+ {
+   "codigo": 210,
+   "nombre": "Bota de goma Calf. negra",
+   "precio": 2054,
+   "iva": 21
+ },
+ {
+   "codigo": 786,
+   "nombre": "Bota de goma Calf. verde",
+   "precio": 2843.1,
+   "iva": 21
+ },
+ {
+   "codigo": 617,
+   "nombre": "Bota Nautica azul",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 655,
+   "nombre": "Boton - Boton R 257",
+   "precio": 21.93,
+   "iva": 21
+ },
+ {
+   "codigo": 838,
+   "nombre": "Boton de ajuste LD 50",
+   "precio": 294,
+   "iva": 21
+ },
+ {
+   "codigo": 26,
+   "nombre": "Boya para aguada (chico)",
+   "precio": 1484,
+   "iva": 21
+ },
+ {
+   "codigo": 389,
+   "nombre": "Bozal cuero crudo y cabestro",
+   "precio": 4200,
+   "iva": 21
+ },
+ {
+   "codigo": 739,
+   "nombre": "Bozal de Nylon",
+   "precio": 2170,
+   "iva": 21
+ },
+ {
+   "codigo": 467,
+   "nombre": "Bozal de polipropileno c/ cab.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 873,
+   "nombre": "Bozal nylon regulable",
+   "precio": 1080,
+   "iva": 21
+ },
+ {
+   "codigo": 839,
+   "nombre": "Bozal rejilla plastico N 5",
+   "precio": 1028.8,
+   "iva": 21
+ },
+ {
+   "codigo": 840,
+   "nombre": "Bozal rejilla plastico N 6",
+   "precio": 1110.4,
+   "iva": 21
+ },
+ {
+   "codigo": 841,
+   "nombre": "Bozal rejilla plastico N 7",
+   "precio": 1286.4,
+   "iva": 21
+ },
+ {
+   "codigo": 27,
+   "nombre": "Brazo para boya con alma de ac",
+   "precio": 497,
+   "iva": 21
+ },
+ {
+   "codigo": 689,
+   "nombre": "Bupinex x 50 ml",
+   "precio": 1219.4,
+   "iva": 21
+ },
+ {
+   "codigo": 272,
+   "nombre": "Cabezada y riendas Doble",
+   "precio": 4550,
+   "iva": 21
+ },
+ {
+   "codigo": 87,
+   "nombre": "Cable subterraeo x 25 mts.",
+   "precio": 2366,
+   "iva": 21
+ },
+ {
+   "codigo": 274,
+   "nombre": "Cable subterraneo x 50 mtrs.",
+   "precio": 4760,
+   "iva": 21
+ },
+ {
+   "codigo": 912,
+   "nombre": "Cadena C/ sint�tica de 3 mm. x 1,20 Mtrs",
+   "precio": 720,
+   "iva": 21
+ },
+ {
+   "codigo": 913,
+   "nombre": "Cadena C/ sint�tica de 3,5 mm. x 1,20 Mtrs",
+   "precio": 885,
+   "iva": 21
+ },
+ {
+   "codigo": 51,
+   "nombre": "Caja crike tranquer n",
+   "precio": 8820,
+   "iva": 21
+ },
+ {
+   "codigo": 19,
+   "nombre": "Calcio 50 x 100 ml.",
+   "precio": 1507.8,
+   "iva": 21
+ },
+ {
+   "codigo": 638,
+   "nombre": "Calcio Calier Forte x 100 ml",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 155,
+   "nombre": "Calenlen. de 2 marcas de chapa",
+   "precio": 11186,
+   "iva": 21
+ },
+ {
+   "codigo": 204,
+   "nombre": "Caliercortin x 10 cc.",
+   "precio": 497,
+   "iva": 21
+ },
+ {
+   "codigo": 624,
+   "nombre": "Calimec x 500 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 888,
+   "nombre": "Calvetan 50 x 100 ml",
+   "precio": 682.5,
+   "iva": 21
+ },
+ {
+   "codigo": 872,
+   "nombre": "Calvetan x 500 ml",
+   "precio": 1572.2,
+   "iva": 21
+ },
+ {
+   "codigo": 9,
+   "nombre": "Camani liquido x 1 Ltrs.",
+   "precio": 707,
+   "iva": 21
+ },
+ {
+   "codigo": 191,
+   "nombre": "Camani liquido x 125",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 226,
+   "nombre": "Camani liquido x 250 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 8,
+   "nombre": "Camani liquido x 500 CC",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 216,
+   "nombre": "Camani Polvo x 250 grs.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 116,
+   "nombre": "Camani polvo x 1 Kg.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 10,
+   "nombre": "Camani polvo x 500 grs.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 432,
+   "nombre": "Camara de aire completa",
+   "precio": 1012.5,
+   "iva": 21
+ },
+ {
+   "codigo": 288,
+   "nombre": "Camioneta",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 621,
+   "nombre": "Campylobacter 40 x 50 ds.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 800,
+   "nombre": "Candado 606 40 mm",
+   "precio": 2331,
+   "iva": 21
+ },
+ {
+   "codigo": 794,
+   "nombre": "Candado 606 50 mm.",
+   "precio": 2730,
+   "iva": 21
+ },
+ {
+   "codigo": 801,
+   "nombre": "Candado 606 65 mm",
+   "precio": 4130,
+   "iva": 21
+ },
+ {
+   "codigo": 759,
+   "nombre": "Canula bucal larga",
+   "precio": 1927.8,
+   "iva": 21
+ },
+ {
+   "codigo": 103,
+   "nombre": "Canula chica con oliva Puor on",
+   "precio": 700,
+   "iva": 21
+ },
+ {
+   "codigo": 462,
+   "nombre": "Capa Azul Ombu",
+   "precio": 3120,
+   "iva": 21
+ },
+ {
+   "codigo": 55,
+   "nombre": "Carav. All Flex grande S/N",
+   "precio": 52.44,
+   "iva": 21
+ },
+ {
+   "codigo": 684,
+   "nombre": "Carav. All Flex Mediana C/N",
+   "precio": 52.5,
+   "iva": 21
+ },
+ {
+   "codigo": 136,
+   "nombre": "Carav. All Flex Mediana S/N",
+   "precio": 43.4,
+   "iva": 21
+ },
+ {
+   "codigo": 54,
+   "nombre": "Carav. all flex grande C/N",
+   "precio": 61.47,
+   "iva": 21
+ },
+ {
+   "codigo": 909,
+   "nombre": "Caravana All Flex Cerdos C/N",
+   "precio": 48.8,
+   "iva": 21
+ },
+ {
+   "codigo": 908,
+   "nombre": "Caravana All Flex Cerdos S/N",
+   "precio": 41.55,
+   "iva": 21
+ },
+ {
+   "codigo": 332,
+   "nombre": "Caravana alflex maxi grande S/N",
+   "precio": 67.31,
+   "iva": 21
+ },
+ {
+   "codigo": 501,
+   "nombre": "Caravana all flex maxi grande C/N",
+   "precio": 78.97,
+   "iva": 21
+ },
+ {
+   "codigo": 924,
+   "nombre": "Caravana chica S/ numero",
+   "precio": 33.88,
+   "iva": 21
+ },
+ {
+   "codigo": 450,
+   "nombre": "Caravana chicas c/n",
+   "precio": 47.22,
+   "iva": 21
+ },
+ {
+   "codigo": 893,
+   "nombre": "Caravanas All flex Max. pers. Num.",
+   "precio": 64.76,
+   "iva": 21
+ },
+ {
+   "codigo": 317,
+   "nombre": "Caravanas TIC TAC x 100 C/N",
+   "precio": 1692.9,
+   "iva": 21
+ },
+ {
+   "codigo": 316,
+   "nombre": "Caravanas TIC TAC x 100 S/N",
+   "precio": 1410.75,
+   "iva": 21
+ },
+ {
+   "codigo": 224,
+   "nombre": "Caravanas tarjeta boton Res. 257",
+   "precio": 81.81,
+   "iva": 21
+ },
+ {
+   "codigo": 380,
+   "nombre": "Carbomic carbunclo x 150 ds.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 218,
+   "nombre": "Cardiotonico x 100 ml.",
+   "precio": 134.33,
+   "iva": 21
+ },
+ {
+   "codigo": 919,
+   "nombre": "Carminativo Brower x 20 lts",
+   "precio": 6230,
+   "iva": 21
+ },
+ {
+   "codigo": 417,
+   "nombre": "Carprobay x 50 ml",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 167,
+   "nombre": "Carretel con elec. x 500 mtrs.",
+   "precio": 4725,
+   "iva": 10.5
+ },
+ {
+   "codigo": 88,
+   "nombre": "Carretel plastico con hierro vacio",
+   "precio": 2100,
+   "iva": 21
+ },
+ {
+   "codigo": 142,
+   "nombre": "Catgut N 4",
+   "precio": 910,
+   "iva": 21
+ },
+ {
+   "codigo": 301,
+   "nombre": "Catosal - B 12 x 100 ml.",
+   "precio": 5807.49,
+   "iva": 21
+ },
+ {
+   "codigo": 882,
+   "nombre": "CDV Viral feed loot hidroxido de Al x 50 ds",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 379,
+   "nombre": "CDV Brucelosis Ds.",
+   "precio": 89.7,
+   "iva": 21
+ },
+ {
+   "codigo": 715,
+   "nombre": "CDV Campylobacter 40 x 50 Ds.",
+   "precio": 3120,
+   "iva": 21
+ },
+ {
+   "codigo": 598,
+   "nombre": "CDV Carbunclo x ds.",
+   "precio": 12.32,
+   "iva": 21
+ },
+ {
+   "codigo": 773,
+   "nombre": "CDV Clostrimax T x 50 ds.",
+   "precio": 2444,
+   "iva": 21
+ },
+ {
+   "codigo": 382,
+   "nombre": "CDV carbunclo x 125 ds.",
+   "precio": 1471.5,
+   "iva": 21
+ },
+ {
+   "codigo": 725,
+   "nombre": "CDV carbunclo x 50 ds.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 377,
+   "nombre": "CDV Diarrea Neo plus x 50 Ds.",
+   "precio": 4511,
+   "iva": 21
+ },
+ {
+   "codigo": 881,
+   "nombre": "CDV Reproductiva x 50 ds",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 769,
+   "nombre": "CDV Triple x 50 Ds.",
+   "precio": 823.5,
+   "iva": 21
+ },
+ {
+   "codigo": 847,
+   "nombre": "CDV Tuberculina PPD x 100 Ds.",
+   "precio": 3472,
+   "iva": 21
+ },
+ {
+   "codigo": 619,
+   "nombre": "CDV Viral feed loot doble emulsion x 50 ds.",
+   "precio": 4500,
+   "iva": 21
+ },
+ {
+   "codigo": 714,
+   "nombre": "CDV Viral Reproductiva plus 50 Ds.",
+   "precio": 4550,
+   "iva": 21
+ },
+ {
+   "codigo": 652,
+   "nombre": "Celo test amarillo x 500 ml.",
+   "precio": 2163.43,
+   "iva": 21
+ },
+ {
+   "codigo": 580,
+   "nombre": "Celoprost x 20 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 863,
+   "nombre": "Celotest amarillo FLUO",
+   "precio": 1708,
+   "iva": 21
+ },
+ {
+   "codigo": 214,
+   "nombre": "Cerasoline x 250 grs.",
+   "precio": 1393,
+   "iva": 21
+ },
+ {
+   "codigo": 266,
+   "nombre": "Cereal",
+   "precio": 0,
+   "iva": 10.5
+ },
+ {
+   "codigo": 352,
+   "nombre": "Chaira acero cabo madera 15 cn",
+   "precio": 1540,
+   "iva": 21
+ },
+ {
+   "codigo": 869,
+   "nombre": "Chaira rallada Magnun",
+   "precio": 2938,
+   "iva": 21
+ },
+ {
+   "codigo": 473,
+   "nombre": "Chaira skiltuna de 30 cn",
+   "precio": 4940,
+   "iva": 21
+ },
+ {
+   "codigo": 59,
+   "nombre": "Chupete de l�tex para balde",
+   "precio": 490,
+   "iva": 21
+ },
+ {
+   "codigo": 60,
+   "nombre": "Chupete de l�tex para botella",
+   "precio": 210,
+   "iva": 21
+ },
+ {
+   "codigo": 207,
+   "nombre": "Ciclace x 20 ml.",
+   "precio": 955.5,
+   "iva": 21
+ },
+ {
+   "codigo": 918,
+   "nombre": "Cicrosil x 100 grs.",
+   "precio": 1064.7,
+   "iva": 21
+ },
+ {
+   "codigo": 608,
+   "nombre": "Cilindro conj. arm. completo",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 686,
+   "nombre": "Cincha de hilo",
+   "precio": 3575,
+   "iva": 21
+ },
+ {
+   "codigo": 248,
+   "nombre": "Cincha de lona",
+   "precio": 2340,
+   "iva": 21
+ },
+ {
+   "codigo": 806,
+   "nombre": "Cinta Duc Tac repara silo",
+   "precio": 648,
+   "iva": 21
+ },
+ {
+   "codigo": 572,
+   "nombre": "Cinta Electroplastica x 400 mtrs.",
+   "precio": 6277.5,
+   "iva": 21
+ },
+ {
+   "codigo": 284,
+   "nombre": "Cinta electroplastica x 200",
+   "precio": 3172.5,
+   "iva": 21
+ },
+ {
+   "codigo": 444,
+   "nombre": "Cinta p/ arreglar bolsones",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 717,
+   "nombre": "Cipionato de estradiol X 100 Ml.",
+   "precio": 1558.2,
+   "iva": 21
+ },
+ {
+   "codigo": 519,
+   "nombre": "Cipionato de estradiol X 50 Ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 28,
+   "nombre": "Clavos N 15/8",
+   "precio": 12.6,
+   "iva": 21
+ },
+ {
+   "codigo": 29,
+   "nombre": "Clavos N 2",
+   "precio": 12.6,
+   "iva": 21
+ },
+ {
+   "codigo": 30,
+   "nombre": "Clavos N 5",
+   "precio": 12.6,
+   "iva": 21
+ },
+ {
+   "codigo": 31,
+   "nombre": "Clavos N 7",
+   "precio": 12.82,
+   "iva": 21
+ },
+ {
+   "codigo": 601,
+   "nombre": "Clortec 200 x 1 Kg.",
+   "precio": 980,
+   "iva": 21
+ },
+ {
+   "codigo": 855,
+   "nombre": "Clortetraciclina x 25 Kg.",
+   "precio": 11692.05,
+   "iva": 21
+ },
+ {
+   "codigo": 123,
+   "nombre": "Colirio x 120 ml.",
+   "precio": 1324.4,
+   "iva": 21
+ },
+ {
+   "codigo": 600,
+   "nombre": "Colistina x 1 Kg.",
+   "precio": 742.5,
+   "iva": 21
+ },
+ {
+   "codigo": 790,
+   "nombre": "Collar 4735 N� 2",
+   "precio": 195,
+   "iva": 21
+ },
+ {
+   "codigo": 130,
+   "nombre": "Collar 4736 N� 3",
+   "precio": 240,
+   "iva": 21
+ },
+ {
+   "codigo": 670,
+   "nombre": "Collar 4737 N� 4",
+   "precio": 247.5,
+   "iva": 21
+ },
+ {
+   "codigo": 131,
+   "nombre": "Collar 4740 N� 5",
+   "precio": 300,
+   "iva": 21
+ },
+ {
+   "codigo": 614,
+   "nombre": "Collar 4741 N� 6",
+   "precio": 352.5,
+   "iva": 21
+ },
+ {
+   "codigo": 534,
+   "nombre": "Collar 4742 N� 7",
+   "precio": 382.5,
+   "iva": 21
+ },
+ {
+   "codigo": 535,
+   "nombre": "Collar 4747",
+   "precio": 735,
+   "iva": 21
+ },
+ {
+   "codigo": 536,
+   "nombre": "Collar 4748",
+   "precio": 759,
+   "iva": 21
+ },
+ {
+   "codigo": 538,
+   "nombre": "Collar 4749",
+   "precio": 780,
+   "iva": 21
+ },
+ {
+   "codigo": 89,
+   "nombre": "Convertidor 10, 30, 60 Km.",
+   "precio": 1937.6,
+   "iva": 21
+ },
+ {
+   "codigo": 90,
+   "nombre": "Convertidor 120 Km.",
+   "precio": 3300,
+   "iva": 21
+ },
+ {
+   "codigo": 33,
+   "nombre": "Correa 4744 N� 2",
+   "precio": 415.5,
+   "iva": 21
+ },
+ {
+   "codigo": 32,
+   "nombre": "Correa 4745 N 3",
+   "precio": 525,
+   "iva": 21
+ },
+ {
+   "codigo": 610,
+   "nombre": "Correa y collar c/ pretal",
+   "precio": 825,
+   "iva": 21
+ },
+ {
+   "codigo": 791,
+   "nombre": "Correa y collar estampado N� 1",
+   "precio": 670.5,
+   "iva": 21
+ },
+ {
+   "codigo": 249,
+   "nombre": "Correon el par",
+   "precio": 1400,
+   "iva": 21
+ },
+ {
+   "codigo": 779,
+   "nombre": "Cortador ancho GUAMPA 222",
+   "precio": 504,
+   "iva": 21
+ },
+ {
+   "codigo": 661,
+   "nombre": "Crema de ode�e x 125grs",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 17,
+   "nombre": "Crema de ordene x 450 grs.",
+   "precio": 847,
+   "iva": 21
+ },
+ {
+   "codigo": 16,
+   "nombre": "Crema orde�e c/aloe vera x 250",
+   "precio": 658,
+   "iva": 21
+ },
+ {
+   "codigo": 225,
+   "nombre": "Criseometrina ovulo",
+   "precio": 112,
+   "iva": 21
+ },
+ {
+   "codigo": 468,
+   "nombre": "Cuchilla cabo blanco C/V 7",
+   "precio": 3471,
+   "iva": 21
+ },
+ {
+   "codigo": 469,
+   "nombre": "Cuchilla cabo blanco C/V 8",
+   "precio": 4017,
+   "iva": 21
+ },
+ {
+   "codigo": 470,
+   "nombre": "Cuchilla cabo blanco C/V 9",
+   "precio": 4452.5,
+   "iva": 21
+ },
+ {
+   "codigo": 583,
+   "nombre": "Cuchilla cabo blanco c/v 6",
+   "precio": 3081,
+   "iva": 21
+ },
+ {
+   "codigo": 505,
+   "nombre": "Cuchilla cabo blanco S/V 7",
+   "precio": 2639,
+   "iva": 21
+ },
+ {
+   "codigo": 506,
+   "nombre": "Cuchilla cabo blanco S/V 8",
+   "precio": 3055,
+   "iva": 21
+ },
+ {
+   "codigo": 507,
+   "nombre": "Cuchilla cabo blanco S/V 9",
+   "precio": 3315,
+   "iva": 21
+ },
+ {
+   "codigo": 754,
+   "nombre": "Cuchilla cabo blanco s/v 6",
+   "precio": 2405,
+   "iva": 21
+ },
+ {
+   "codigo": 820,
+   "nombre": "Cuchilla con mango dentado",
+   "precio": 2250,
+   "iva": 21
+ },
+ {
+   "codigo": 733,
+   "nombre": "Cuchilla de 25 cn. tronzador",
+   "precio": 2250,
+   "iva": 21
+ },
+ {
+   "codigo": 370,
+   "nombre": "Cuchilla para capar",
+   "precio": 1875,
+   "iva": 21
+ },
+ {
+   "codigo": 914,
+   "nombre": "Cuchillo Arbolito p/ deshuesar",
+   "precio": 2520,
+   "iva": 21
+ },
+ {
+   "codigo": 746,
+   "nombre": "Cuchillo cabo bronce c/ vaina",
+   "precio": 1575,
+   "iva": 21
+ },
+ {
+   "codigo": 471,
+   "nombre": "Cuchillo cabo negro C/V 4",
+   "precio": 3737.5,
+   "iva": 21
+ },
+ {
+   "codigo": 475,
+   "nombre": "Cuchillo cabo negro C/V 6",
+   "precio": 4452.5,
+   "iva": 21
+ },
+ {
+   "codigo": 504,
+   "nombre": "Cuchillo cabo negro C/V 8",
+   "precio": 5557.5,
+   "iva": 21
+ },
+ {
+   "codigo": 755,
+   "nombre": "Cuchillo cabo negro c/v 10",
+   "precio": 6519.5,
+   "iva": 21
+ },
+ {
+   "codigo": 868,
+   "nombre": "Cuchillo cabo negro n� 10 S/V",
+   "precio": 5317,
+   "iva": 21
+ },
+ {
+   "codigo": 865,
+   "nombre": "Cuchillo cabo negro n� 4 S/V",
+   "precio": 3178.5,
+   "iva": 21
+ },
+ {
+   "codigo": 866,
+   "nombre": "Cuchillo cabo negro n� 6 S/V",
+   "precio": 3809,
+   "iva": 21
+ },
+ {
+   "codigo": 867,
+   "nombre": "Cuchillo cabo negro n� 8 S/V",
+   "precio": 4745,
+   "iva": 21
+ },
+ {
+   "codigo": 744,
+   "nombre": "Cuchillo ciervo/madera de 10 cn",
+   "precio": 2400,
+   "iva": 21
+ },
+ {
+   "codigo": 742,
+   "nombre": "Cuchillo ciervo/madera de 12 cn",
+   "precio": 2625,
+   "iva": 21
+ },
+ {
+   "codigo": 581,
+   "nombre": "Cuchillo Gourmet x 10 cm",
+   "precio": 2405,
+   "iva": 21
+ },
+ {
+   "codigo": 582,
+   "nombre": "Cuchillo gourmet x 15 cm.",
+   "precio": 3640,
+   "iva": 21
+ },
+ {
+   "codigo": 429,
+   "nombre": "Cuchillo N�1 Tiento y alpaca",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 430,
+   "nombre": "Cuchillo N�2",
+   "precio": 2235,
+   "iva": 21
+ },
+ {
+   "codigo": 431,
+   "nombre": "Cuchillo N�3",
+   "precio": 1935,
+   "iva": 21
+ },
+ {
+   "codigo": 36,
+   "nombre": "Cuchillo Siervo/madera 14 cn.",
+   "precio": 2880,
+   "iva": 21
+ },
+ {
+   "codigo": 128,
+   "nombre": "Cuchillo Siervo/madera 16 Cn.",
+   "precio": 3150,
+   "iva": 21
+ },
+ {
+   "codigo": 348,
+   "nombre": "Cuchillo Siervo/madera 18 cn.",
+   "precio": 3870,
+   "iva": 21
+ },
+ {
+   "codigo": 127,
+   "nombre": "Cuchillo Siervo/madera 20 cn.",
+   "precio": 4155,
+   "iva": 21
+ },
+ {
+   "codigo": 309,
+   "nombre": "Cuchillo Siervo/madera 22 cn.",
+   "precio": 4551,
+   "iva": 21
+ },
+ {
+   "codigo": 349,
+   "nombre": "Cuchillo Siervo/madera 24 cn.",
+   "precio": 5050.5,
+   "iva": 21
+ },
+ {
+   "codigo": 219,
+   "nombre": "Cuchillo Siervo/madera 26 cn.",
+   "precio": 8100,
+   "iva": 21
+ },
+ {
+   "codigo": 350,
+   "nombre": "Cuchillo Siervo/madera 28 cn.",
+   "precio": 8400,
+   "iva": 21
+ },
+ {
+   "codigo": 129,
+   "nombre": "Cuchillo Siervo/madera 30 cn.",
+   "precio": 9000,
+   "iva": 21
+ },
+ {
+   "codigo": 351,
+   "nombre": "Cuchillo Siervo/madera 35 cn.",
+   "precio": 9600,
+   "iva": 21
+ },
+ {
+   "codigo": 261,
+   "nombre": "Cuenta ganado",
+   "precio": 322,
+   "iva": 21
+ },
+ {
+   "codigo": 647,
+   "nombre": "Cuero negro natural",
+   "precio": 1819,
+   "iva": 21
+ },
+ {
+   "codigo": 109,
+   "nombre": "Cuerpo grad. Trnsp. L.Matic 10",
+   "precio": 308,
+   "iva": 21
+ },
+ {
+   "codigo": 821,
+   "nombre": "Cuerpo grad. trans Karfavet",
+   "precio": 510,
+   "iva": 21
+ },
+ {
+   "codigo": 830,
+   "nombre": "Cuerpo graduado lider matic x 20ml",
+   "precio": 505.4,
+   "iva": 21
+ },
+ {
+   "codigo": 160,
+   "nombre": "Cuerpo met�lica Lider 50",
+   "precio": 1336.72,
+   "iva": 21
+ },
+ {
+   "codigo": 148,
+   "nombre": "Cuerpo plas. c/rosca Met. L 50",
+   "precio": 658,
+   "iva": 21
+ },
+ {
+   "codigo": 850,
+   "nombre": "Cuerpo plastico FIX",
+   "precio": 546,
+   "iva": 21
+ },
+ {
+   "codigo": 314,
+   "nombre": "Cuerpo plastico L 50 s/Rosca",
+   "precio": 532,
+   "iva": 21
+ },
+ {
+   "codigo": 383,
+   "nombre": "Cumefly plus x 1 lts",
+   "precio": 254.8,
+   "iva": 21
+ },
+ {
+   "codigo": 21,
+   "nombre": "Curabichera cicatri. Liq. x 1",
+   "precio": 3299.8,
+   "iva": 21
+ },
+ {
+   "codigo": 20,
+   "nombre": "Curabichera cicatri. Liq.x 500",
+   "precio": 1782.39,
+   "iva": 21
+ },
+ {
+   "codigo": 24,
+   "nombre": "Curabichera cicatri.liq. x 250",
+   "precio": 1209.18,
+   "iva": 21
+ },
+ {
+   "codigo": 445,
+   "nombre": "Curabichera liq.x 1lts.Cooper",
+   "precio": 7774,
+   "iva": 21
+ },
+ {
+   "codigo": 545,
+   "nombre": "Curabichera Pasta x 240 grs",
+   "precio": 700,
+   "iva": 21
+ },
+ {
+   "codigo": 22,
+   "nombre": "Curabichera pasta x 480 grs.",
+   "precio": 1316,
+   "iva": 21
+ },
+ {
+   "codigo": 335,
+   "nombre": "Curamicag aerosol",
+   "precio": 540,
+   "iva": 21
+ },
+ {
+   "codigo": 215,
+   "nombre": "Curerpo graduado L.matic x 20",
+   "precio": 406,
+   "iva": 21
+ },
+ {
+   "codigo": 437,
+   "nombre": "cabezada y rienda simple",
+   "precio": 3500,
+   "iva": 10.5
+ },
+ {
+   "codigo": 371,
+   "nombre": "cabresto de hilo",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 319,
+   "nombre": "calentador de 2 marcas hierro",
+   "precio": 17746.4,
+   "iva": 21
+ },
+ {
+   "codigo": 747,
+   "nombre": "cuchillade 20 cn tronsador",
+   "precio": 1650,
+   "iva": 21
+ },
+ {
+   "codigo": 745,
+   "nombre": "cuchillo cabo hueso c/vaina",
+   "precio": 1400,
+   "iva": 21
+ },
+ {
+   "codigo": 416,
+   "nombre": "Dairy Clin C jeringa",
+   "precio": 49,
+   "iva": 21
+ },
+ {
+   "codigo": 208,
+   "nombre": "DESCUENTO",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 577,
+   "nombre": "Debito por error de facturaci�n",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 567,
+   "nombre": "Deboluci�n de mercader�a",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 278,
+   "nombre": "Derribante pomada x 0,9 Kg.",
+   "precio": 1501.65,
+   "iva": 21
+ },
+ {
+   "codigo": 871,
+   "nombre": "Derribante pour on x 5 lts",
+   "precio": 14358.07,
+   "iva": 21
+ },
+ {
+   "codigo": 406,
+   "nombre": "Desarrollo 2 % T.K. x 20 kg.",
+   "precio": 906.2,
+   "iva": 21
+ },
+ {
+   "codigo": 61,
+   "nombre": "Destetador de plastico",
+   "precio": 30.8,
+   "iva": 21
+ },
+ {
+   "codigo": 336,
+   "nombre": "Desvasador comun",
+   "precio": 980,
+   "iva": 21
+ },
+ {
+   "codigo": 673,
+   "nombre": "Desvasador Mustand de 280",
+   "precio": 2835,
+   "iva": 21
+ },
+ {
+   "codigo": 353,
+   "nombre": "Desvasador Mustang de 360 mm",
+   "precio": 3395.25,
+   "iva": 21
+ },
+ {
+   "codigo": 884,
+   "nombre": "Dexa 20 ACA x 50 ml.",
+   "precio": 872.14,
+   "iva": 21
+ },
+ {
+   "codigo": 494,
+   "nombre": "Dexametasona x 10 ml.",
+   "precio": 484.4,
+   "iva": 21
+ },
+ {
+   "codigo": 777,
+   "nombre": "Dextrogenol x 20 ml.",
+   "precio": 494.9,
+   "iva": 21
+ },
+ {
+   "codigo": 15,
+   "nombre": "Diafin N x 20 ml.",
+   "precio": 1127,
+   "iva": 21
+ },
+ {
+   "codigo": 190,
+   "nombre": "Dipenisol retard x 100 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 618,
+   "nombre": "Dipenisol x 50 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 62,
+   "nombre": "Disco de goma grande el par",
+   "precio": 560,
+   "iva": 21
+ },
+ {
+   "codigo": 595,
+   "nombre": "Dispositivo intravagial",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 597,
+   "nombre": "Dominal gatos m�s de 4 Kg naranja",
+   "precio": 376,
+   "iva": 21
+ },
+ {
+   "codigo": 438,
+   "nombre": "Dominal menos de 4 KG amarillo",
+   "precio": 368,
+   "iva": 21
+ },
+ {
+   "codigo": 702,
+   "nombre": "Doramic x 500 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 703,
+   "nombre": "Dorandex x 50 Ml.",
+   "precio": 1261.76,
+   "iva": 21
+ },
+ {
+   "codigo": 789,
+   "nombre": "Dorandex x 500 ml.",
+   "precio": 5842.24,
+   "iva": 21
+ },
+ {
+   "codigo": 644,
+   "nombre": "Dosificador completo L 14",
+   "precio": 840,
+   "iva": 21
+ },
+ {
+   "codigo": 295,
+   "nombre": "Drontal gato pastilla",
+   "precio": 208,
+   "iva": 21
+ },
+ {
+   "codigo": 120,
+   "nombre": "Drontal gatos x 2 comprimidos",
+   "precio": 360,
+   "iva": 21
+ },
+ {
+   "codigo": 315,
+   "nombre": "Drontal perros saborizado 35",
+   "precio": 700.8,
+   "iva": 21
+ },
+ {
+   "codigo": 308,
+   "nombre": "Drontal plus sabor. x 1 pasti.",
+   "precio": 251.2,
+   "iva": 21
+ },
+ {
+   "codigo": 192,
+   "nombre": "Drontal plus saborizado x 2",
+   "precio": 471,
+   "iva": 21
+ },
+ {
+   "codigo": 870,
+   "nombre": "Ecthol 5 x 70 ml",
+   "precio": 408,
+   "iva": 21
+ },
+ {
+   "codigo": 195,
+   "nombre": "El Establo unto para Guar. 250",
+   "precio": 1190,
+   "iva": 21
+ },
+ {
+   "codigo": 91,
+   "nombre": "Electrificador El Boyerito 220",
+   "precio": 7514,
+   "iva": 10.5
+ },
+ {
+   "codigo": 304,
+   "nombre": "Electrificador Peon 120 - 12",
+   "precio": 23268.7,
+   "iva": 10.5
+ },
+ {
+   "codigo": 244,
+   "nombre": "Electrificador Peon 120/220",
+   "precio": 19280.3,
+   "iva": 10.5
+ },
+ {
+   "codigo": 242,
+   "nombre": "Electrificador Peon 35-220",
+   "precio": 14866.8,
+   "iva": 10.5
+ },
+ {
+   "codigo": 93,
+   "nombre": "Electrificador Peon 35/12",
+   "precio": 17128.8,
+   "iva": 10.5
+ },
+ {
+   "codigo": 94,
+   "nombre": "Electrificador Peon 60/12",
+   "precio": 17451.2,
+   "iva": 10.5
+ },
+ {
+   "codigo": 243,
+   "nombre": "Electrificador Peon 60/220",
+   "precio": 15512.9,
+   "iva": 10.5
+ },
+ {
+   "codigo": 92,
+   "nombre": "Electrificador Peon Mini 10/12",
+   "precio": 16320.2,
+   "iva": 10.5
+ },
+ {
+   "codigo": 495,
+   "nombre": "Electrificador Peoncito 5 Km.",
+   "precio": 8079.5,
+   "iva": 10.5
+ },
+ {
+   "codigo": 95,
+   "nombre": "Electrificador vaquero 60/12",
+   "precio": 15653.3,
+   "iva": 10.5
+ },
+ {
+   "codigo": 96,
+   "nombre": "Electrificador vaquero 60/220",
+   "precio": 12619.1,
+   "iva": 10.5
+ },
+ {
+   "codigo": 296,
+   "nombre": "Encimera ancha",
+   "precio": 3500,
+   "iva": 21
+ },
+ {
+   "codigo": 569,
+   "nombre": "Encimera de lona",
+   "precio": 4060,
+   "iva": 21
+ },
+ {
+   "codigo": 609,
+   "nombre": "Energomag x 250 ml.",
+   "precio": 210,
+   "iva": 21
+ },
+ {
+   "codigo": 854,
+   "nombre": "Engorde x 25 Kg.",
+   "precio": 3516,
+   "iva": 21
+ },
+ {
+   "codigo": 556,
+   "nombre": "Entero puls 7 x 50 ml.",
+   "precio": 550,
+   "iva": 21
+ },
+ {
+   "codigo": 485,
+   "nombre": "Enzaprost x 20 ml.",
+   "precio": 550.2,
+   "iva": 21
+ },
+ {
+   "codigo": 456,
+   "nombre": "Equiver Large x 18 grs.",
+   "precio": 1949.5,
+   "iva": 21
+ },
+ {
+   "codigo": 722,
+   "nombre": "Equiverm x 6 grs.",
+   "precio": 721,
+   "iva": 21
+ },
+ {
+   "codigo": 824,
+   "nombre": "Esc. graduada doble embolo",
+   "precio": 980,
+   "iva": 21
+ },
+ {
+   "codigo": 753,
+   "nombre": "Escala dentada Karfa vet",
+   "precio": 645,
+   "iva": 21
+ },
+ {
+   "codigo": 836,
+   "nombre": "Escala graduada con porta embolo lider LD 50",
+   "precio": 910,
+   "iva": 21
+ },
+ {
+   "codigo": 104,
+   "nombre": "Escala graduadora Lider 50 cn.",
+   "precio": 951.75,
+   "iva": 27
+ },
+ {
+   "codigo": 593,
+   "nombre": "Escala, boton y anillo FIX x 50 cc.",
+   "precio": 910,
+   "iva": 21
+ },
+ {
+   "codigo": 668,
+   "nombre": "Espes x 100 ml",
+   "precio": 1120,
+   "iva": 21
+ },
+ {
+   "codigo": 161,
+   "nombre": "Estradiol 10 x 10 Ml.",
+   "precio": 87.78,
+   "iva": 21
+ },
+ {
+   "codigo": 737,
+   "nombre": "Estribo de hierro con estribera",
+   "precio": 3780,
+   "iva": 21
+ },
+ {
+   "codigo": 738,
+   "nombre": "Estribo de hierro sin estribera",
+   "precio": 2450,
+   "iva": 21
+ },
+ {
+   "codigo": 256,
+   "nombre": "Estribo y estr.pata de gallo",
+   "precio": 4480,
+   "iva": 21
+ },
+ {
+   "codigo": 255,
+   "nombre": "Estribo y estrib.redondo comun",
+   "precio": 4060,
+   "iva": 21
+ },
+ {
+   "codigo": 386,
+   "nombre": "Extracto bancario",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 483,
+   "nombre": "Faraon x 6 grs.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 461,
+   "nombre": "Febendazole Kg.",
+   "precio": 891.8,
+   "iva": 21
+ },
+ {
+   "codigo": 307,
+   "nombre": "Fenbendazol 10 % x 1 ltrs.",
+   "precio": 264.1,
+   "iva": 21
+ },
+ {
+   "codigo": 697,
+   "nombre": "Fleanet AG x 440 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 844,
+   "nombre": "Fleanet pour on x 1 Lts.",
+   "precio": 3703,
+   "iva": 21
+ },
+ {
+   "codigo": 843,
+   "nombre": "Fleanet pour on x 5 Lts.",
+   "precio": 13059.2,
+   "iva": 21
+ },
+ {
+   "codigo": 415,
+   "nombre": "Florfenicol x 100cm",
+   "precio": 359.8,
+   "iva": 21
+ },
+ {
+   "codigo": 887,
+   "nombre": "Flovagen inyectable x 100 ml",
+   "precio": 1194.2,
+   "iva": 21
+ },
+ {
+   "codigo": 162,
+   "nombre": "Fluido Manchester x 700 ml.",
+   "precio": 600.75,
+   "iva": 21
+ },
+ {
+   "codigo": 12,
+   "nombre": "Fluido manchester x 350 ml.",
+   "precio": 345,
+   "iva": 21
+ },
+ {
+   "codigo": 222,
+   "nombre": "Fluido manchester x 4 ltrs.",
+   "precio": 2320.5,
+   "iva": 21
+ },
+ {
+   "codigo": 387,
+   "nombre": "Fluido spineda crema x100 grs.",
+   "precio": 637.84,
+   "iva": 21
+ },
+ {
+   "codigo": 121,
+   "nombre": "Fluido spineda x 250 ml.",
+   "precio": 637.84,
+   "iva": 21
+ },
+ {
+   "codigo": 345,
+   "nombre": "Fluido Triunfo x 4 Lts.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 883,
+   "nombre": "Flumina ACA x 100 ml",
+   "precio": 2121.61,
+   "iva": 21
+ },
+ {
+   "codigo": 761,
+   "nombre": "Flumixin x 10 ml.",
+   "precio": 295.4,
+   "iva": 21
+ },
+ {
+   "codigo": 557,
+   "nombre": "Fluvac 4 x 10 ds.",
+   "precio": 1421.45,
+   "iva": 21
+ },
+ {
+   "codigo": 620,
+   "nombre": "Fluvac inovator 4 x 10 ds.",
+   "precio": 1985.2,
+   "iva": 21
+ },
+ {
+   "codigo": 374,
+   "nombre": "Fluxabac LA 300 x 100 ml.",
+   "precio": 904.4,
+   "iva": 21
+ },
+ {
+   "codigo": 802,
+   "nombre": "Fluximin x 50 Ml.",
+   "precio": 980,
+   "iva": 21
+ },
+ {
+   "codigo": 695,
+   "nombre": "Formidor x 15 Kg.",
+   "precio": 11760,
+   "iva": 21
+ },
+ {
+   "codigo": 320,
+   "nombre": "Formidor x 500 grs.",
+   "precio": 560,
+   "iva": 21
+ },
+ {
+   "codigo": 280,
+   "nombre": "Fraliver x 100 ml.",
+   "precio": 82.6,
+   "iva": 21
+ },
+ {
+   "codigo": 5,
+   "nombre": "Frap ultra x 30 grs.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 251,
+   "nombre": "Freno de pata corta",
+   "precio": 2450,
+   "iva": 21
+ },
+ {
+   "codigo": 298,
+   "nombre": "Freno pata larga",
+   "precio": 2730,
+   "iva": 21
+ },
+ {
+   "codigo": 297,
+   "nombre": "Freno pata larga con copa cromado",
+   "precio": 4900,
+   "iva": 21
+ },
+ {
+   "codigo": 286,
+   "nombre": "GASTOS BANCARIOS",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 149,
+   "nombre": "Gancho con mariposa",
+   "precio": 30.8,
+   "iva": 21
+ },
+ {
+   "codigo": 113,
+   "nombre": "Gatillo completo Lider x 50 cn",
+   "precio": 531,
+   "iva": 21
+ },
+ {
+   "codigo": 409,
+   "nombre": "Gestaci�n x 30 Kg.",
+   "precio": 2825.2,
+   "iva": 21
+ },
+ {
+   "codigo": 611,
+   "nombre": "Gestamix x 60 ds",
+   "precio": 1667.4,
+   "iva": 21
+ },
+ {
+   "codigo": 735,
+   "nombre": "Glacoxan E X 500 ml",
+   "precio": 1136.8,
+   "iva": 21
+ },
+ {
+   "codigo": 654,
+   "nombre": "Glacoxan E x 1 Lts.",
+   "precio": 1820,
+   "iva": 21
+ },
+ {
+   "codigo": 678,
+   "nombre": "Glacoxan E x 120 cc",
+   "precio": 420,
+   "iva": 21
+ },
+ {
+   "codigo": 677,
+   "nombre": "Glacoxan E x 250 cc",
+   "precio": 609,
+   "iva": 21
+ },
+ {
+   "codigo": 675,
+   "nombre": "Glacoxan H polvo x 1 Kg.",
+   "precio": 994,
+   "iva": 21
+ },
+ {
+   "codigo": 653,
+   "nombre": "Glacoxan H polvo x 250 grs.",
+   "precio": 308,
+   "iva": 21
+ },
+ {
+   "codigo": 736,
+   "nombre": "Glacoxan H x 500 grs",
+   "precio": 476,
+   "iva": 21
+ },
+ {
+   "codigo": 639,
+   "nombre": "Glutellac x 50 ml.",
+   "precio": 370.65,
+   "iva": 21
+ },
+ {
+   "codigo": 805,
+   "nombre": "GnRh Gonaxal x 50 ml",
+   "precio": 1226.79,
+   "iva": 21
+ },
+ {
+   "codigo": 64,
+   "nombre": "Grampa para cerdos N 5 (adulto)",
+   "precio": 15,
+   "iva": 21
+ },
+ {
+   "codigo": 822,
+   "nombre": "Grampa para cerdos N 2",
+   "precio": 9.8,
+   "iva": 21
+ },
+ {
+   "codigo": 63,
+   "nombre": "Grampa para cerdos N 3 (lechon)",
+   "precio": 12,
+   "iva": 21
+ },
+ {
+   "codigo": 7,
+   "nombre": "Grasa para vasos x 400 grs.",
+   "precio": 64.36,
+   "iva": 21
+ },
+ {
+   "codigo": 65,
+   "nombre": "Guante descartable largo",
+   "precio": 40.5,
+   "iva": 21
+ },
+ {
+   "codigo": 490,
+   "nombre": "Guante esmeralda par",
+   "precio": 580.16,
+   "iva": 21
+ },
+ {
+   "codigo": 367,
+   "nombre": "Guante Latex corto",
+   "precio": 21,
+   "iva": 21
+ },
+ {
+   "codigo": 793,
+   "nombre": "Guante negro de nitrilo negro s/polvo",
+   "precio": 27,
+   "iva": 21
+ },
+ {
+   "codigo": 271,
+   "nombre": "Guantes latex cort.100 U.",
+   "precio": 1820,
+   "iva": 21
+ },
+ {
+   "codigo": 798,
+   "nombre": "Guantes moteados",
+   "precio": 300,
+   "iva": 21
+ },
+ {
+   "codigo": 923,
+   "nombre": "Guardamonte",
+   "precio": 2030,
+   "iva": 21
+ },
+ {
+   "codigo": 911,
+   "nombre": "Gubia doble filo pampa forge",
+   "precio": 6748,
+   "iva": 21
+ },
+ {
+   "codigo": 270,
+   "nombre": "Gubia filo Der. Izq. doble Mustad",
+   "precio": 4549.5,
+   "iva": 21
+ },
+ {
+   "codigo": 752,
+   "nombre": "Gubia redonda pampa forge",
+   "precio": 9963,
+   "iva": 21
+ },
+ {
+   "codigo": 732,
+   "nombre": "Guia Dentada Karfavet x 50 cc",
+   "precio": 307.5,
+   "iva": 21
+ },
+ {
+   "codigo": 817,
+   "nombre": "Guia de empuje Lider matic 20 ml",
+   "precio": 224,
+   "iva": 21
+ },
+ {
+   "codigo": 833,
+   "nombre": "Guia mango chico",
+   "precio": 232.5,
+   "iva": 21
+ },
+ {
+   "codigo": 263,
+   "nombre": "Hepato protector T x 100 ml.",
+   "precio": 131.45,
+   "iva": 21
+ },
+ {
+   "codigo": 546,
+   "nombre": "Hepatone x 100 ml.",
+   "precio": 172.2,
+   "iva": 21
+ },
+ {
+   "codigo": 657,
+   "nombre": "Herradura Trabajo Mustad",
+   "precio": 826,
+   "iva": 21
+ },
+ {
+   "codigo": 37,
+   "nombre": "Herraduras de aluminio manos",
+   "precio": 1204,
+   "iva": 21
+ },
+ {
+   "codigo": 38,
+   "nombre": "Herraduras de aluminio patas",
+   "precio": 1204,
+   "iva": 21
+ },
+ {
+   "codigo": 39,
+   "nombre": "Herraduras Vareo liviano",
+   "precio": 1197,
+   "iva": 21
+ },
+ {
+   "codigo": 656,
+   "nombre": "Herraduras Vareo pesado",
+   "precio": 1232,
+   "iva": 21
+ },
+ {
+   "codigo": 52,
+   "nombre": "Hierro tranquer n T x 1.20 mts",
+   "precio": 3724,
+   "iva": 21
+ },
+ {
+   "codigo": 436,
+   "nombre": "Hilo encerado para coser",
+   "precio": 825,
+   "iva": 21
+ },
+ {
+   "codigo": 40,
+   "nombre": "Hilo para arrollar Pic up x 3000",
+   "precio": 2865,
+   "iva": 21
+ },
+ {
+   "codigo": 605,
+   "nombre": "Hilo para arrollar x 4.500",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 157,
+   "nombre": "Hoja de bisturi n 24 Shawn Morton",
+   "precio": 156,
+   "iva": 21
+ },
+ {
+   "codigo": 202,
+   "nombre": "Honorarios",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 328,
+   "nombre": "Hormigel pomo x 170 ml.",
+   "precio": 610.4,
+   "iva": 21
+ },
+ {
+   "codigo": 246,
+   "nombre": "Hormixan x 6 grs.",
+   "precio": 255,
+   "iva": 21
+ },
+ {
+   "codigo": 874,
+   "nombre": "Hueso de cuero crudo 3/4",
+   "precio": 210,
+   "iva": 21
+ },
+ {
+   "codigo": 875,
+   "nombre": "Hueso de cuero crudo 5/6",
+   "precio": 225,
+   "iva": 21
+ },
+ {
+   "codigo": 876,
+   "nombre": "Hueso de cuero crudo 7/8",
+   "precio": 330,
+   "iva": 21
+ },
+ {
+   "codigo": 542,
+   "nombre": "hilo lino metro",
+   "precio": 45,
+   "iva": 21
+ },
+ {
+   "codigo": 525,
+   "nombre": "Inadrim x 50 ml.",
+   "precio": 1636.6,
+   "iva": 21
+ },
+ {
+   "codigo": 404,
+   "nombre": "Iniciador 100 x 25 Kg.",
+   "precio": 5395.8,
+   "iva": 21
+ },
+ {
+   "codigo": 890,
+   "nombre": "Instalador poste Z",
+   "precio": 11521.79,
+   "iva": 21
+ },
+ {
+   "codigo": 489,
+   "nombre": "Intertocine x 50 ml.",
+   "precio": 599.2,
+   "iva": 21
+ },
+ {
+   "codigo": 179,
+   "nombre": "Ioduro de sodio x 50 ml.",
+   "precio": 1710.8,
+   "iva": 21
+ },
+ {
+   "codigo": 311,
+   "nombre": "Ivermectina + Prazicuantel",
+   "precio": 93.8,
+   "iva": 21
+ },
+ {
+   "codigo": 683,
+   "nombre": "Iversol equinos jeringa x 6 grs.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 596,
+   "nombre": "Ivomec x 500 ml.",
+   "precio": 577.92,
+   "iva": 21
+ },
+ {
+   "codigo": 275,
+   "nombre": "Jaque x 100 grs.",
+   "precio": 98,
+   "iva": 21
+ },
+ {
+   "codigo": 589,
+   "nombre": "Jeringa Aut. FIX cuer. plas. x 50 cc",
+   "precio": 5537,
+   "iva": 21
+ },
+ {
+   "codigo": 487,
+   "nombre": "Jeringa acrilico x 50 cc.",
+   "precio": 736.93,
+   "iva": 21
+ },
+ {
+   "codigo": 71,
+   "nombre": "Jeringa descartable x 10 ml.",
+   "precio": 24,
+   "iva": 21
+ },
+ {
+   "codigo": 69,
+   "nombre": "Jeringa descartable x 20 ml.",
+   "precio": 35,
+   "iva": 21
+ },
+ {
+   "codigo": 70,
+   "nombre": "Jeringa descartable x 30 ml.",
+   "precio": 56,
+   "iva": 21
+ },
+ {
+   "codigo": 68,
+   "nombre": "Jeringa descartable x 5 ml.",
+   "precio": 13.44,
+   "iva": 21
+ },
+ {
+   "codigo": 72,
+   "nombre": "Jeringa descartable x 60 ml.",
+   "precio": 84,
+   "iva": 21
+ },
+ {
+   "codigo": 707,
+   "nombre": "Jeringa FIX MASTER cuerpo plastico",
+   "precio": 5320,
+   "iva": 21
+ },
+ {
+   "codigo": 730,
+   "nombre": "Jeringa Karfavet aut. x 50 cc.",
+   "precio": 3920,
+   "iva": 21
+ },
+ {
+   "codigo": 67,
+   "nombre": "Jeringa Lider Matic x 10 ml.",
+   "precio": 6020,
+   "iva": 21
+ },
+ {
+   "codigo": 135,
+   "nombre": "Jeringa Lider Matic x 20 ml.",
+   "precio": 6300,
+   "iva": 21
+ },
+ {
+   "codigo": 66,
+   "nombre": "Jeringa Lider x 50 ml c/ metal",
+   "precio": 4872,
+   "iva": 21
+ },
+ {
+   "codigo": 269,
+   "nombre": "Jeringa Lider-Dial x 50 c/plas",
+   "precio": 4102,
+   "iva": 21
+ },
+ {
+   "codigo": 388,
+   "nombre": "Jeringa primor matic x 10 ml.",
+   "precio": 6300,
+   "iva": 21
+ },
+ {
+   "codigo": 676,
+   "nombre": "Jeringa primor matic x 20 ml.",
+   "precio": 6664,
+   "iva": 21
+ },
+ {
+   "codigo": 334,
+   "nombre": "Jeringa provac dia.pla x 50",
+   "precio": 3080,
+   "iva": 21
+ },
+ {
+   "codigo": 758,
+   "nombre": "Jeringa Univ. Cassou",
+   "precio": 15812.5,
+   "iva": 21
+ },
+ {
+   "codigo": 622,
+   "nombre": "Jga autom. MAGNUM x 50 ml.",
+   "precio": 1429.4,
+   "iva": 21
+ },
+ {
+   "codigo": 341,
+   "nombre": "Jga. Primor 70 x 50 cc.",
+   "precio": 5600,
+   "iva": 21
+ },
+ {
+   "codigo": 340,
+   "nombre": "Jga. Primor Dial met. x 50 cc.",
+   "precio": 4760,
+   "iva": 21
+ },
+ {
+   "codigo": 134,
+   "nombre": "Jga.Lider cuerpo pl�stico x 50",
+   "precio": 2730,
+   "iva": 21
+ },
+ {
+   "codigo": 763,
+   "nombre": "Juego numeros p caravana",
+   "precio": 5720,
+   "iva": 21
+ },
+ {
+   "codigo": 728,
+   "nombre": "jeringa lider c/plastico x 50 ml.",
+   "precio": 4711,
+   "iva": 21
+ },
+ {
+   "codigo": 627,
+   "nombre": "jeringa magnum x 50 ml. cuerpo plast.",
+   "precio": 3450,
+   "iva": 21
+ },
+ {
+   "codigo": 517,
+   "nombre": "jeringa provac acero 50 ml.",
+   "precio": 3105,
+   "iva": 21
+ },
+ {
+   "codigo": 344,
+   "nombre": "K-Othrine fog x 440 ml.",
+   "precio": 627.2,
+   "iva": 21
+ },
+ {
+   "codigo": 594,
+   "nombre": "K-otrina LPU x 500 spray",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 524,
+   "nombre": "Ketamina 100 x 50 ml",
+   "precio": 3612,
+   "iva": 21
+ },
+ {
+   "codigo": 443,
+   "nombre": "Ketamina 50 x 50 ml.",
+   "precio": 1722,
+   "iva": 21
+ },
+ {
+   "codigo": 479,
+   "nombre": "Kil amitraz x 20 ml.",
+   "precio": 630,
+   "iva": 21
+ },
+ {
+   "codigo": 837,
+   "nombre": "Kit de goma LD 50",
+   "precio": 266,
+   "iva": 21
+ },
+ {
+   "codigo": 823,
+   "nombre": "Kit de gomas esc. grad. doble LAD",
+   "precio": 448,
+   "iva": 21
+ },
+ {
+   "codigo": 785,
+   "nombre": "Kit de gomas Karfa vet",
+   "precio": 252,
+   "iva": 21
+ },
+ {
+   "codigo": 731,
+   "nombre": "Kit gatillo Karfavet",
+   "precio": 675,
+   "iva": 21
+ },
+ {
+   "codigo": 105,
+   "nombre": "Kit gomas Lider Matic x 10 Cn.",
+   "precio": 644,
+   "iva": 21
+ },
+ {
+   "codigo": 170,
+   "nombre": "Kit gomas Lider Matic x 20 ml.",
+   "precio": 901.6,
+   "iva": 21
+ },
+ {
+   "codigo": 141,
+   "nombre": "Kit juego gomas Lider 50",
+   "precio": 280,
+   "iva": 21
+ },
+ {
+   "codigo": 526,
+   "nombre": "Kit reproductivo",
+   "precio": 406,
+   "iva": 21
+ },
+ {
+   "codigo": 528,
+   "nombre": "Kit Solar Peon 60",
+   "precio": 54568.8,
+   "iva": 10.5
+ },
+ {
+   "codigo": 97,
+   "nombre": "Kit sol.vaquero 30 km.",
+   "precio": 37165.7,
+   "iva": 10.5
+ },
+ {
+   "codigo": 720,
+   "nombre": "Kit solar PEON 40 KM.",
+   "precio": 45770.4,
+   "iva": 10.5
+ },
+ {
+   "codigo": 313,
+   "nombre": "kit solar PEON 30Km.",
+   "precio": 42571.1,
+   "iva": 10.5
+ },
+ {
+   "codigo": 408,
+   "nombre": "Lactancia x 30 Kg.",
+   "precio": 3267.15,
+   "iva": 21
+ },
+ {
+   "codigo": 200,
+   "nombre": "Laf 19 plus x 25 Kg.",
+   "precio": 5334.21,
+   "iva": 21
+ },
+ {
+   "codigo": 435,
+   "nombre": "Lanza larga pastica de 30 cm",
+   "precio": 2800,
+   "iva": 21
+ },
+ {
+   "codigo": 206,
+   "nombre": "Lapiz de potasa",
+   "precio": 959,
+   "iva": 21
+ },
+ {
+   "codigo": 56,
+   "nombre": "Lapiz para caravana All Flex",
+   "precio": 1695.6,
+   "iva": 21
+ },
+ {
+   "codigo": 548,
+   "nombre": "Lash SP x 250 grs.",
+   "precio": 309.22,
+   "iva": 21
+ },
+ {
+   "codigo": 568,
+   "nombre": "Latigo trenzado",
+   "precio": 1960,
+   "iva": 21
+ },
+ {
+   "codigo": 465,
+   "nombre": "Lazo de 4 y 6 Corto",
+   "precio": 9100,
+   "iva": 21
+ },
+ {
+   "codigo": 250,
+   "nombre": "Lazo de 4 y 6 largo",
+   "precio": 12040,
+   "iva": 21
+ },
+ {
+   "codigo": 277,
+   "nombre": "Lazo de Hilo de 3",
+   "precio": 3300,
+   "iva": 21
+ },
+ {
+   "codigo": 765,
+   "nombre": "Letras tatuaje",
+   "precio": 845,
+   "iva": 21
+ },
+ {
+   "codigo": 512,
+   "nombre": "Levac Gel x 1 Kg.",
+   "precio": 2219,
+   "iva": 21
+ },
+ {
+   "codigo": 511,
+   "nombre": "Levac Inyectable x 500 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 515,
+   "nombre": "Levamic Fosfato x 500 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 147,
+   "nombre": "Linea de suero",
+   "precio": 50,
+   "iva": 21
+ },
+ {
+   "codigo": 132,
+   "nombre": "Llave de corte picana o Rolin",
+   "precio": 1295,
+   "iva": 21
+ },
+ {
+   "codigo": 905,
+   "nombre": "Lomillo Victoria",
+   "precio": 21700,
+   "iva": 21
+ },
+ {
+   "codigo": 398,
+   "nombre": "Lotagen x100 ml.",
+   "precio": 2499.9,
+   "iva": 21
+ },
+ {
+   "codigo": 112,
+   "nombre": "Lubricante silicona x 30 cc",
+   "precio": 280,
+   "iva": 21
+ },
+ {
+   "codigo": 555,
+   "nombre": "Luces de Emergencias 60 led",
+   "precio": 4222.4,
+   "iva": 10.5
+ },
+ {
+   "codigo": 57,
+   "nombre": "Macho para caravana All Flex",
+   "precio": 28,
+   "iva": 21
+ },
+ {
+   "codigo": 427,
+   "nombre": "Magneblok x 23 Kg.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 176,
+   "nombre": "Magnesio hipososfito x 50 ml.",
+   "precio": 196,
+   "iva": 21
+ },
+ {
+   "codigo": 772,
+   "nombre": "Magnosil X 500 Ml.",
+   "precio": 765.8,
+   "iva": 21
+ },
+ {
+   "codigo": 412,
+   "nombre": "Malamix block magnes.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 484,
+   "nombre": "Mancha gancrena y enter x 50 ,",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 254,
+   "nombre": "Mandil comun cocido",
+   "precio": 3850,
+   "iva": 21
+ },
+ {
+   "codigo": 183,
+   "nombre": "Mochila Efac x 16 Lts.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 211,
+   "nombre": "Mochila efac x 20 lts.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 642,
+   "nombre": "Mochila Giber de 16 Lts.",
+   "precio": 13162.5,
+   "iva": 21
+ },
+ {
+   "codigo": 658,
+   "nombre": "Mochila Giber de 20 Lts.",
+   "precio": 13393.35,
+   "iva": 21
+ },
+ {
+   "codigo": 660,
+   "nombre": "Mosca finn x 1 kg.",
+   "precio": 399,
+   "iva": 21
+ },
+ {
+   "codigo": 795,
+   "nombre": "Mosqueton a gatillo de 20mm",
+   "precio": 705.25,
+   "iva": 21
+ },
+ {
+   "codigo": 442,
+   "nombre": "Mosqueton a gatillo de 25 mm",
+   "precio": 776.9,
+   "iva": 21
+ },
+ {
+   "codigo": 293,
+   "nombre": "Mosquicida Ultra x 30 Grs.",
+   "precio": 165,
+   "iva": 21
+ },
+ {
+   "codigo": 575,
+   "nombre": "Movilidad",
+   "precio": 16.3,
+   "iva": 0
+ },
+ {
+   "codigo": 640,
+   "nombre": "N.C. mal facturado",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 400,
+   "nombre": "Naquasone x 20 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 276,
+   "nombre": "Negasunt x 200grs",
+   "precio": 1678.78,
+   "iva": 21
+ },
+ {
+   "codigo": 3,
+   "nombre": "Neguvon polvo x 25 grs.",
+   "precio": 715,
+   "iva": 21
+ },
+ {
+   "codigo": 576,
+   "nombre": "Niglumine x 50 Ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 394,
+   "nombre": "Nitrogeno liquido litro",
+   "precio": 102,
+   "iva": 21
+ },
+ {
+   "codigo": 781,
+   "nombre": "Nota de cr�dito",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 532,
+   "nombre": "Novormom 5000 x 12,5",
+   "precio": 4777.5,
+   "iva": 21
+ },
+ {
+   "codigo": 645,
+   "nombre": "Novormon Ecegon 5.000 UI.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 834,
+   "nombre": "Nucleo",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 766,
+   "nombre": "Numero para tatuaje",
+   "precio": 756,
+   "iva": 21
+ },
+ {
+   "codigo": 628,
+   "nombre": "Nutratec x 25 Kg.",
+   "precio": 2256,
+   "iva": 21
+ },
+ {
+   "codigo": 682,
+   "nombre": "Nutratek drying x 20 kg.",
+   "precio": 1435,
+   "iva": 21
+ },
+ {
+   "codigo": 846,
+   "nombre": "Ocramicin L.A. X 250 ml.",
+   "precio": 1680,
+   "iva": 21
+ },
+ {
+   "codigo": 285,
+   "nombre": "OFF aerosol x 165 grs. naranja",
+   "precio": 345,
+   "iva": 21
+ },
+ {
+   "codigo": 369,
+   "nombre": "Off extra verde x 165 grs.",
+   "precio": 559.7,
+   "iva": 21
+ },
+ {
+   "codigo": 894,
+   "nombre": "OSS.SH DOUBLE x 250 ml shampoo",
+   "precio": 450,
+   "iva": 21
+ },
+ {
+   "codigo": 897,
+   "nombre": "OSS.SH. ALGAS VITALIZ. x 250 ml. shampoo",
+   "precio": 423,
+   "iva": 21
+ },
+ {
+   "codigo": 896,
+   "nombre": "OSS.SH.A2 Aloe Avena x 250 ml. shampoo",
+   "precio": 454.5,
+   "iva": 21
+ },
+ {
+   "codigo": 895,
+   "nombre": "OSS.SH.pulgas,garr.x 250 ml shamp.+enj",
+   "precio": null,
+   "iva": null
+ },
+ {
+   "codigo": 701,
+   "nombre": "Overfer x 100 ml.",
+   "precio": 350,
+   "iva": 21
+ },
+ {
+   "codigo": 516,
+   "nombre": "Oxi VT x 1 Kg.",
+   "precio": 2415,
+   "iva": 21
+ },
+ {
+   "codigo": 559,
+   "nombre": "Vetue Oxi VT x 100 grs.",
+   "precio": 300,
+   "iva": 21
+ },
+ {
+   "codigo": 122,
+   "nombre": "Oxitetraciclina L.A. x 250 ml.",
+   "precio": 1540,
+   "iva": 21
+ },
+ {
+   "codigo": 420,
+   "nombre": "Oxitetraciclina polv. x 1 Kg.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 421,
+   "nombre": "Oxitetraciclina x 100 grs.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 590,
+   "nombre": "Oxitocina x 10 ml.",
+   "precio": 546,
+   "iva": 21
+ },
+ {
+   "codigo": 853,
+   "nombre": "Palanca de empuje Lider Matic x 20 mm",
+   "precio": 1259.55,
+   "iva": 21
+ },
+ {
+   "codigo": 650,
+   "nombre": "Panel Solartec KS 20 sin soporte",
+   "precio": 7397,
+   "iva": 10.5
+ },
+ {
+   "codigo": 262,
+   "nombre": "Panel Solartec KS-20 C/Soporte",
+   "precio": 9867,
+   "iva": 10.5
+ },
+ {
+   "codigo": 603,
+   "nombre": "Papilla x 25 Kgs.",
+   "precio": 1476.6,
+   "iva": 21
+ },
+ {
+   "codigo": 268,
+   "nombre": "Pasta para tatuaje Kenco x 140",
+   "precio": 4671,
+   "iva": 21
+ },
+ {
+   "codigo": 300,
+   "nombre": "Pegual ancho",
+   "precio": 3430,
+   "iva": 21
+ },
+ {
+   "codigo": 257,
+   "nombre": "Pegual fino",
+   "precio": 2170,
+   "iva": 21
+ },
+ {
+   "codigo": 812,
+   "nombre": "Peine ancho Beiyuan 13",
+   "precio": 3500,
+   "iva": 21
+ },
+ {
+   "codigo": 778,
+   "nombre": "Peine ancho GUAMPA 111",
+   "precio": 2450,
+   "iva": 21
+ },
+ {
+   "codigo": 734,
+   "nombre": "Peladora 12 Volts Fare",
+   "precio": 56296.5,
+   "iva": 10.5
+ },
+ {
+   "codigo": 694,
+   "nombre": "Peniciline 6M",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 719,
+   "nombre": "Penitrepto fco ampolla x 5 Mill",
+   "precio": 535.59,
+   "iva": 21
+ },
+ {
+   "codigo": 106,
+   "nombre": "Perilla ajusta embolo Lider 50",
+   "precio": 238,
+   "iva": 21
+ },
+ {
+   "codigo": 194,
+   "nombre": "Pervinox soluci�n x 1 Lts.",
+   "precio": 350,
+   "iva": 21
+ },
+ {
+   "codigo": 878,
+   "nombre": "Petting adulto x 1 kg",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 325,
+   "nombre": "Pforex plus A x 200 ml.",
+   "precio": 109.2,
+   "iva": 21
+ },
+ {
+   "codigo": 452,
+   "nombre": "Pico c/abanico pl�stico",
+   "precio": 1071,
+   "iva": 21
+ },
+ {
+   "codigo": 107,
+   "nombre": "Picos champion",
+   "precio": 476,
+   "iva": 21
+ },
+ {
+   "codigo": 323,
+   "nombre": "Piedra de afilar chica de 20 cm",
+   "precio": 1260,
+   "iva": 21
+ },
+ {
+   "codigo": 915,
+   "nombre": "Piedra de afilar de Carburundun",
+   "precio": 2450,
+   "iva": 21
+ },
+ {
+   "codigo": 41,
+   "nombre": "Piedra de afilar grande x 30 c",
+   "precio": 1820,
+   "iva": 21
+ },
+ {
+   "codigo": 42,
+   "nombre": "Piedra de afilar mediana de 25 cm",
+   "precio": 1540,
+   "iva": 21
+ },
+ {
+   "codigo": 917,
+   "nombre": "Piedritas sanitarias para gatos x Kg.",
+   "precio": 175,
+   "iva": 21
+ },
+ {
+   "codigo": 158,
+   "nombre": "Pilocarpina x 10 ml.",
+   "precio": 1232,
+   "iva": 21
+ },
+ {
+   "codigo": 449,
+   "nombre": "Pincel n� 20",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 448,
+   "nombre": "Pintura x 1 lts.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 73,
+   "nombre": "Pinza Elastrator",
+   "precio": 3990,
+   "iva": 21
+ },
+ {
+   "codigo": 441,
+   "nombre": "Pinza p/caravanas TICTAC",
+   "precio": 3334.5,
+   "iva": 21
+ },
+ {
+   "codigo": 58,
+   "nombre": "Pinza para caravana All Flex",
+   "precio": 5888.7,
+   "iva": 21
+ },
+ {
+   "codigo": 74,
+   "nombre": "Pinza para grampas de cerdos",
+   "precio": 5642,
+   "iva": 21
+ },
+ {
+   "codigo": 290,
+   "nombre": "Pinza para remachar mustad",
+   "precio": 13567.5,
+   "iva": 21
+ },
+ {
+   "codigo": 764,
+   "nombre": "Pinza para tatuaje",
+   "precio": 16198,
+   "iva": 21
+ },
+ {
+   "codigo": 11,
+   "nombre": "Piperazina x 100 grs.",
+   "precio": 78.4,
+   "iva": 21
+ },
+ {
+   "codigo": 613,
+   "nombre": "Piperazina x 100 grs. Proagro",
+   "precio": 77.81,
+   "iva": 21
+ },
+ {
+   "codigo": 503,
+   "nombre": "Piston de cuerpo de lanza como",
+   "precio": 405,
+   "iva": 21
+ },
+ {
+   "codigo": 891,
+   "nombre": "Plantillas mirage racing plate par aluminio",
+   "precio": 450,
+   "iva": 21
+ },
+ {
+   "codigo": 892,
+   "nombre": "Plantillas mirage small ring par",
+   "precio": 555,
+   "iva": 21
+ },
+ {
+   "codigo": 563,
+   "nombre": "Plus Formula 01 x 25 Kg.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 303,
+   "nombre": "Pluviometro Peon grande",
+   "precio": 994,
+   "iva": 21
+ },
+ {
+   "codigo": 43,
+   "nombre": "Pluviometro Rain Gaus",
+   "precio": 974.4,
+   "iva": 21
+ },
+ {
+   "codigo": 625,
+   "nombre": "Polvo Secante x 25 Kg.",
+   "precio": 1015.3,
+   "iva": 21
+ },
+ {
+   "codigo": 910,
+   "nombre": "Poncho resero",
+   "precio": 6500,
+   "iva": 21
+ },
+ {
+   "codigo": 108,
+   "nombre": "Porta pico Lider",
+   "precio": 282.8,
+   "iva": 21
+ },
+ {
+   "codigo": 139,
+   "nombre": "Porta valvula de aspiraci�n",
+   "precio": 350,
+   "iva": 21
+ },
+ {
+   "codigo": 140,
+   "nombre": "Porta valvula de impulci�n",
+   "precio": 418.6,
+   "iva": 21
+ },
+ {
+   "codigo": 803,
+   "nombre": "Poste Z galvanizado x 1,3 mts.",
+   "precio": 948.29,
+   "iva": 21
+ },
+ {
+   "codigo": 579,
+   "nombre": "Pour Metrin Plus x 1 lts.",
+   "precio": 609,
+   "iva": 21
+ },
+ {
+   "codigo": 602,
+   "nombre": "Prestarter MPLT x 25 kg.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 630,
+   "nombre": "Prestarter magnum x 25 Kg.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 671,
+   "nombre": "Pretal 4304",
+   "precio": 316.8,
+   "iva": 21
+ },
+ {
+   "codigo": 672,
+   "nombre": "Pretal n� 3",
+   "precio": 472,
+   "iva": 21
+ },
+ {
+   "codigo": 480,
+   "nombre": "Pretal n� 4",
+   "precio": 651.2,
+   "iva": 21
+ },
+ {
+   "codigo": 901,
+   "nombre": "Pretal n� 5",
+   "precio": 762,
+   "iva": 21
+ },
+ {
+   "codigo": 902,
+   "nombre": "Pretal n� 6",
+   "precio": 928.5,
+   "iva": 21
+ },
+ {
+   "codigo": 193,
+   "nombre": "Procaina novo x 100 ml.",
+   "precio": 91,
+   "iva": 21
+ },
+ {
+   "codigo": 925,
+   "nombre": "Publiciddad",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 453,
+   "nombre": "pico de bronce c/chorro",
+   "precio": 938,
+   "iva": 21
+ },
+ {
+   "codigo": 424,
+   "nombre": "Quantum MILK x 25 Kg.",
+   "precio": 8354.68,
+   "iva": 21
+ },
+ {
+   "codigo": 723,
+   "nombre": "Quantum PRO MILK x 25 kg.",
+   "precio": 9629.06,
+   "iva": 21
+ },
+ {
+   "codigo": 384,
+   "nombre": "Quintuple+leptospira perros",
+   "precio": 1080,
+   "iva": 21
+ },
+ {
+   "codigo": 294,
+   "nombre": "Raid aerosol x 360 cn.",
+   "precio": 489,
+   "iva": 21
+ },
+ {
+   "codigo": 498,
+   "nombre": "Raspa Heller Farrier 14",
+   "precio": 4016.25,
+   "iva": 21
+ },
+ {
+   "codigo": 440,
+   "nombre": "Raspa mustang",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 916,
+   "nombre": "Raspador tricho plastico desc.",
+   "precio": 270,
+   "iva": 21
+ },
+ {
+   "codigo": 75,
+   "nombre": "Rasqueta de chapa con mango",
+   "precio": 1323,
+   "iva": 21
+ },
+ {
+   "codigo": 826,
+   "nombre": "Rasqueta de chapa sin mango",
+   "precio": 630,
+   "iva": 21
+ },
+ {
+   "codigo": 175,
+   "nombre": "Rasqueta de goma",
+   "precio": 392,
+   "iva": 21
+ },
+ {
+   "codigo": 76,
+   "nombre": "Rasqueta de plastico amarilla",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 252,
+   "nombre": "Rebenque corralero pesado",
+   "precio": 2310,
+   "iva": 21
+ },
+ {
+   "codigo": 393,
+   "nombre": "Rebenque fino alambre",
+   "precio": 1890,
+   "iva": 21
+ },
+ {
+   "codigo": 392,
+   "nombre": "Rebenque grueso madera",
+   "precio": 2170,
+   "iva": 21
+ },
+ {
+   "codigo": 410,
+   "nombre": "Reducci�n para v�lvula",
+   "precio": 322,
+   "iva": 21
+ },
+ {
+   "codigo": 466,
+   "nombre": "Reparacion comp.camara de aire",
+   "precio": 122,
+   "iva": 21
+ },
+ {
+   "codigo": 405,
+   "nombre": "Reproductor 3 % x 25 Kg.",
+   "precio": 3266,
+   "iva": 21
+ },
+ {
+   "codigo": 476,
+   "nombre": "Repromic x 60 ds.",
+   "precio": 1170,
+   "iva": 21
+ },
+ {
+   "codigo": 691,
+   "nombre": "Repromix x 60 ds.",
+   "precio": 1170,
+   "iva": 21
+ },
+ {
+   "codigo": 857,
+   "nombre": "Resorte de los dedo FARE con tornillo y tuerca",
+   "precio": 345,
+   "iva": 21
+ },
+ {
+   "codigo": 114,
+   "nombre": "Resorte de mango Lider 50cc.",
+   "precio": 165,
+   "iva": 21
+ },
+ {
+   "codigo": 827,
+   "nombre": "Resorte lider matic x 20",
+   "precio": 337.5,
+   "iva": 21
+ },
+ {
+   "codigo": 491,
+   "nombre": "Resorte para se�alador",
+   "precio": 1183,
+   "iva": 21
+ },
+ {
+   "codigo": 699,
+   "nombre": "Respi 8 querato x 25 Ds.",
+   "precio": 832,
+   "iva": 21
+ },
+ {
+   "codigo": 662,
+   "nombre": "Respi 8 x 50 Ds.",
+   "precio": 3289,
+   "iva": 21
+ },
+ {
+   "codigo": 299,
+   "nombre": "Riendas dobles el par",
+   "precio": 2800,
+   "iva": 21
+ },
+ {
+   "codigo": 464,
+   "nombre": "Riendas sinples el par",
+   "precio": 2145,
+   "iva": 21
+ },
+ {
+   "codigo": 446,
+   "nombre": "Riocaina lidocaina 2%",
+   "precio": 840,
+   "iva": 21
+ },
+ {
+   "codigo": 861,
+   "nombre": "Rioflumixin x 10 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 862,
+   "nombre": "Rioflumixin x 50 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 774,
+   "nombre": "Ripercol x 250 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 184,
+   "nombre": "Rociador Giber x 1 Ltrs. Multi Spray",
+   "precio": 831.6,
+   "iva": 21
+ },
+ {
+   "codigo": 185,
+   "nombre": "Rociador Giber x 500 ml. Multi Spray",
+   "precio": 730.8,
+   "iva": 21
+ },
+ {
+   "codigo": 751,
+   "nombre": "Rodamil Gel Jga. x 30 gr.",
+   "precio": 728,
+   "iva": 21
+ },
+ {
+   "codigo": 788,
+   "nombre": "Rodilon Block x 1 Kg.",
+   "precio": 3710,
+   "iva": 21
+ },
+ {
+   "codigo": 163,
+   "nombre": "Rodilon Block x 20 grs.",
+   "precio": 99,
+   "iva": 21
+ },
+ {
+   "codigo": 230,
+   "nombre": "Rodilon pellet x 1 kg.",
+   "precio": 3248,
+   "iva": 21
+ },
+ {
+   "codigo": 4,
+   "nombre": "Rodilon x 200 grs.",
+   "precio": 658,
+   "iva": 21
+ },
+ {
+   "codigo": 395,
+   "nombre": "Roetrap chica para laucha",
+   "precio": 154,
+   "iva": 21
+ },
+ {
+   "codigo": 168,
+   "nombre": "Rollo electropiolin x 250 mt.",
+   "precio": 1722,
+   "iva": 21
+ },
+ {
+   "codigo": 100,
+   "nombre": "Rollo electropiolin x 500 mts.",
+   "precio": 3321,
+   "iva": 10.5
+ },
+ {
+   "codigo": 626,
+   "nombre": "Rotamix x 60 Ds.",
+   "precio": 789.75,
+   "iva": 21
+ },
+ {
+   "codigo": 347,
+   "nombre": "Rotamix x 60 Ds.",
+   "precio": 1248,
+   "iva": 21
+ },
+ {
+   "codigo": 799,
+   "nombre": "Rumigan 10% x 25 Kg.",
+   "precio": 11066.4,
+   "iva": 21
+ },
+ {
+   "codigo": 182,
+   "nombre": "Rumio tonic x 10 ml.",
+   "precio": 1176,
+   "iva": 21
+ },
+ {
+   "codigo": 615,
+   "nombre": "Ruter x 15 Kg.",
+   "precio": 580,
+   "iva": 21
+ },
+ {
+   "codigo": 889,
+   "nombre": "Sacaposte Z",
+   "precio": 6284.25,
+   "iva": 21
+ },
+ {
+   "codigo": 201,
+   "nombre": "Sal mineral agua dulce x 25Kg.",
+   "precio": 2236,
+   "iva": 21
+ },
+ {
+   "codigo": 780,
+   "nombre": "Secuestrante SMT 40 x 25 kg.",
+   "precio": 10058.42,
+   "iva": 21
+ },
+ {
+   "codigo": 488,
+   "nombre": "Selcozinc x 500 ml.",
+   "precio": 4803.5,
+   "iva": 21
+ },
+ {
+   "codigo": 77,
+   "nombre": "Se�alador borde de oreja VN",
+   "precio": 11628.5,
+   "iva": 21
+ },
+ {
+   "codigo": 690,
+   "nombre": "Septicare x 1 Lt",
+   "precio": 2254,
+   "iva": 21
+ },
+ {
+   "codigo": 906,
+   "nombre": "Servicios pecuarios",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 859,
+   "nombre": "Simparica tab. 10-20 kg celeste",
+   "precio": 1199.8,
+   "iva": 21
+ },
+ {
+   "codigo": 860,
+   "nombre": "Simparica tab. 20-40 kg.verde",
+   "precio": 1400,
+   "iva": 21
+ },
+ {
+   "codigo": 858,
+   "nombre": "Simparica tab. 5-10 kg. naranja",
+   "precio": 926.8,
+   "iva": 21
+ },
+ {
+   "codigo": 14,
+   "nombre": "Singestar comprimido x 8 past",
+   "precio": 675,
+   "iva": 21
+ },
+ {
+   "codigo": 599,
+   "nombre": "Singestar Ds.",
+   "precio": 720,
+   "iva": 21
+ },
+ {
+   "codigo": 165,
+   "nombre": "Singestar x 1 ml. Jeringa",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 792,
+   "nombre": "Soga de 6 mm. metro",
+   "precio": 30,
+   "iva": 21
+ },
+ {
+   "codigo": 828,
+   "nombre": "Solartec regulador SXR 10",
+   "precio": 5796,
+   "iva": 21
+ },
+ {
+   "codigo": 696,
+   "nombre": "Solucion fisiologica x 500 ml.",
+   "precio": 112,
+   "iva": 21
+ },
+ {
+   "codigo": 433,
+   "nombre": "Sopapa doble",
+   "precio": 37.6,
+   "iva": 21
+ },
+ {
+   "codigo": 651,
+   "nombre": "Soporte KS 20",
+   "precio": 1601.6,
+   "iva": 21
+ },
+ {
+   "codigo": 403,
+   "nombre": "Starter magnum x 25 kg.",
+   "precio": 4115.27,
+   "iva": 21
+ },
+ {
+   "codigo": 227,
+   "nombre": "Storm S x unidad",
+   "precio": 21,
+   "iva": 21
+ },
+ {
+   "codigo": 434,
+   "nombre": "Storm x 1 Kg.",
+   "precio": 4018,
+   "iva": 21
+ },
+ {
+   "codigo": 273,
+   "nombre": "Sudadera Doble impermiable",
+   "precio": 3220,
+   "iva": 21
+ },
+ {
+   "codigo": 253,
+   "nombre": "Sudadera simple",
+   "precio": 1680,
+   "iva": 21
+ },
+ {
+   "codigo": 23,
+   "nombre": "Sulfametacina x 100ml.",
+   "precio": 2282,
+   "iva": 21
+ },
+ {
+   "codigo": 709,
+   "nombre": "Super synect puor on x 1 lts",
+   "precio": 2170,
+   "iva": 21
+ },
+ {
+   "codigo": 698,
+   "nombre": "Synect Pour On x 1 Lts.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 771,
+   "nombre": "Taisina 300 x 250 ml.",
+   "precio": 2842,
+   "iva": 21
+ },
+ {
+   "codigo": 659,
+   "nombre": "Tanque presion previa Giber de 9 lts.",
+   "precio": 7121.25,
+   "iva": 21
+ },
+ {
+   "codigo": 186,
+   "nombre": "Tanque pulveriz. 7.5 Lts.GIBER H-7",
+   "precio": 6434.1,
+   "iva": 21
+ },
+ {
+   "codigo": 235,
+   "nombre": "Tanque pulveriz. x 5 lts. GIBER H-5",
+   "precio": 6080.4,
+   "iva": 21
+ },
+ {
+   "codigo": 282,
+   "nombre": "Tanque pulverizador de 3.5 L.",
+   "precio": 5775,
+   "iva": 21
+ },
+ {
+   "codigo": 643,
+   "nombre": "Tanque pulverizador Giber x 1,5 lts.",
+   "precio": 2394,
+   "iva": 21
+ },
+ {
+   "codigo": 209,
+   "nombre": "TEA 327 x 120 Ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 220,
+   "nombre": "Tea 327 polvo x 100 grs.",
+   "precio": 484.4,
+   "iva": 21
+ },
+ {
+   "codigo": 164,
+   "nombre": "Tea 327 x 70 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 228,
+   "nombre": "Tecnofos x 30 pastillas",
+   "precio": 1062.95,
+   "iva": 21
+ },
+ {
+   "codigo": 292,
+   "nombre": "Tenaza Desvasador mustad 14",
+   "precio": 17452.8,
+   "iva": 21
+ },
+ {
+   "codigo": 407,
+   "nombre": "Terminaci�n 2 % T.K. x 20 kg.",
+   "precio": 1147.7,
+   "iva": 21
+ },
+ {
+   "codigo": 692,
+   "nombre": "Termometro de cremeria",
+   "precio": 513.98,
+   "iva": 21
+ },
+ {
+   "codigo": 796,
+   "nombre": "Terracortril x 125 ml.",
+   "precio": 1163.49,
+   "iva": 21
+ },
+ {
+   "codigo": 324,
+   "nombre": "Tetraelmer Blisters x 10 cap.",
+   "precio": 455,
+   "iva": 21
+ },
+ {
+   "codigo": 570,
+   "nombre": "Tiamina x 100 ml.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 245,
+   "nombre": "Tiamina x 50 ml.",
+   "precio": 1170.4,
+   "iva": 21
+ },
+ {
+   "codigo": 807,
+   "nombre": "Tiguvon sputon x 1 Lts.",
+   "precio": 4461.6,
+   "iva": 21
+ },
+ {
+   "codigo": 44,
+   "nombre": "Tijera Bigornia 125",
+   "precio": 6433,
+   "iva": 21
+ },
+ {
+   "codigo": 845,
+   "nombre": "Tilcofeno x 100 ml.",
+   "precio": 2639,
+   "iva": 21
+ },
+ {
+   "codigo": 700,
+   "nombre": "Tilmec x 100 Ml.",
+   "precio": 513.8,
+   "iva": 21
+ },
+ {
+   "codigo": 552,
+   "nombre": "Tilmic x 100 ml.",
+   "precio": 686,
+   "iva": 21
+ },
+ {
+   "codigo": 520,
+   "nombre": "Tilminario x 100 ml",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 508,
+   "nombre": "Tilosina x 250 ml.",
+   "precio": 189,
+   "iva": 21
+ },
+ {
+   "codigo": 513,
+   "nombre": "Tintura de Iodo Doble x 250 ml",
+   "precio": 2345,
+   "iva": 21
+ },
+ {
+   "codigo": 422,
+   "nombre": "Tipertox x 145 ml.",
+   "precio": 1386,
+   "iva": 21
+ },
+ {
+   "codigo": 180,
+   "nombre": "Tiza para lanares",
+   "precio": 1065.6,
+   "iva": 21
+ },
+ {
+   "codigo": 126,
+   "nombre": "Tiza para lanares azul",
+   "precio": 640,
+   "iva": 21
+ },
+ {
+   "codigo": 25,
+   "nombre": "Tiza para lanares verde",
+   "precio": 640,
+   "iva": 21
+ },
+ {
+   "codigo": 634,
+   "nombre": "TK Dearrollo X 25 Kg.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 632,
+   "nombre": "TK Iniciador al 10 % x 25 Kg.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 633,
+   "nombre": "TK Recria x 25 Kg.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 635,
+   "nombre": "TK Terminaci�n x 20 Kg.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 137,
+   "nombre": "Tornillo de Mango Lider 50",
+   "precio": 277.2,
+   "iva": 21
+ },
+ {
+   "codigo": 45,
+   "nombre": "Torniqueta doble",
+   "precio": 352.68,
+   "iva": 21
+ },
+ {
+   "codigo": 46,
+   "nombre": "Torniqueta N",
+   "precio": 308,
+   "iva": 21
+ },
+ {
+   "codigo": 152,
+   "nombre": "Torniqueta TV",
+   "precio": 263.25,
+   "iva": 21
+ },
+ {
+   "codigo": 907,
+   "nombre": "Traje de agua amarillo W-S",
+   "precio": 2100,
+   "iva": 21
+ },
+ {
+   "codigo": 401,
+   "nombre": "Traje de agua Mechongue",
+   "precio": 7800,
+   "iva": 21
+ },
+ {
+   "codigo": 783,
+   "nombre": "Traje de agua mechongue pantalon",
+   "precio": 3430,
+   "iva": 21
+ },
+ {
+   "codigo": 784,
+   "nombre": "Traje de agua mechongue saco",
+   "precio": 5026,
+   "iva": 21
+ },
+ {
+   "codigo": 679,
+   "nombre": "Traje de agua OMBU amarillo",
+   "precio": 3240,
+   "iva": 21
+ },
+ {
+   "codigo": 565,
+   "nombre": "Traje de agua ombu compacto",
+   "precio": 4725,
+   "iva": 21
+ },
+ {
+   "codigo": 760,
+   "nombre": "Trampa para peludos",
+   "precio": 12150,
+   "iva": 21
+ },
+ {
+   "codigo": 549,
+   "nombre": "Trampera Super Acme",
+   "precio": 130,
+   "iva": 21
+ },
+ {
+   "codigo": 111,
+   "nombre": "Tubo para jeringa x 50 cc.",
+   "precio": 312.2,
+   "iva": 21
+ },
+ {
+   "codigo": 829,
+   "nombre": "Tuerca primor matic ajus.val.expul.",
+   "precio": 133,
+   "iva": 21
+ },
+ {
+   "codigo": 554,
+   "nombre": "Tylan 40 x 1 kg",
+   "precio": 770,
+   "iva": 21
+ },
+ {
+   "codigo": 818,
+   "nombre": "tornillo p/ graduar dosis Lider 20 ml",
+   "precio": 252,
+   "iva": 21
+ },
+ {
+   "codigo": 688,
+   "nombre": "Unimag x 530 ml.",
+   "precio": 2240,
+   "iva": 21
+ },
+ {
+   "codigo": 710,
+   "nombre": "Vacunacion Carbunclo",
+   "precio": 3.43,
+   "iva": 21
+ },
+ {
+   "codigo": 573,
+   "nombre": "Vacunacion de aftosa",
+   "precio": 4.72,
+   "iva": 0
+ },
+ {
+   "codigo": 574,
+   "nombre": "Vacunaci�n de brucelosis",
+   "precio": 5.57,
+   "iva": 21
+ },
+ {
+   "codigo": 354,
+   "nombre": "Vaina de 10 cn.",
+   "precio": 42.25,
+   "iva": 21
+ },
+ {
+   "codigo": 355,
+   "nombre": "Vaina de 12 cn.",
+   "precio": 50.7,
+   "iva": 21
+ },
+ {
+   "codigo": 356,
+   "nombre": "Vaina de 14 cn.",
+   "precio": 58.5,
+   "iva": 21
+ },
+ {
+   "codigo": 357,
+   "nombre": "Vaina de 16 cn.",
+   "precio": 63.7,
+   "iva": 21
+ },
+ {
+   "codigo": 358,
+   "nombre": "Vaina de 18 cn.",
+   "precio": 84.5,
+   "iva": 21
+ },
+ {
+   "codigo": 359,
+   "nombre": "Vaina de 20 cn.",
+   "precio": 105.62,
+   "iva": 21
+ },
+ {
+   "codigo": 360,
+   "nombre": "Vaina de 22 cn.",
+   "precio": 136.5,
+   "iva": 21
+ },
+ {
+   "codigo": 361,
+   "nombre": "Vaina de 24 cn.",
+   "precio": 157.3,
+   "iva": 21
+ },
+ {
+   "codigo": 362,
+   "nombre": "Vaina de 26 cn.",
+   "precio": 178.75,
+   "iva": 21
+ },
+ {
+   "codigo": 363,
+   "nombre": "Vaina de 28 cn.",
+   "precio": 195,
+   "iva": 21
+ },
+ {
+   "codigo": 364,
+   "nombre": "Vaina de 30 cn.",
+   "precio": 219.7,
+   "iva": 21
+ },
+ {
+   "codigo": 365,
+   "nombre": "Vaina de 35 cn.",
+   "precio": 243.75,
+   "iva": 21
+ },
+ {
+   "codigo": 78,
+   "nombre": "Vaina verde francia para pajue",
+   "precio": 23.8,
+   "iva": 21
+ },
+ {
+   "codigo": 181,
+   "nombre": "Vainas azules",
+   "precio": 88.2,
+   "iva": 21
+ },
+ {
+   "codigo": 808,
+   "nombre": "Valvula Hansen",
+   "precio": 11069.23,
+   "iva": 21
+ },
+ {
+   "codigo": 153,
+   "nombre": "Valvula para bebedero de 2\"",
+   "precio": 3753,
+   "iva": 21
+ },
+ {
+   "codigo": 151,
+   "nombre": "Varilla de plastico con acero",
+   "precio": 429.3,
+   "iva": 21
+ },
+ {
+   "codigo": 172,
+   "nombre": "Varilla interior lider 50",
+   "precio": 604.8,
+   "iva": 21
+ },
+ {
+   "codigo": 279,
+   "nombre": "Varilla sobre alambre",
+   "precio": 310.5,
+   "iva": 21
+ },
+ {
+   "codigo": 101,
+   "nombre": "Varillas con rulo y orquilla",
+   "precio": 337.5,
+   "iva": 21
+ },
+ {
+   "codigo": 221,
+   "nombre": "Varios",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 287,
+   "nombre": "Vehiculo.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 310,
+   "nombre": "Veloxan x 250 ml.",
+   "precio": 924,
+   "iva": 21
+ },
+ {
+   "codigo": 767,
+   "nombre": "Venda autoadherente colores",
+   "precio": 630,
+   "iva": 21
+ },
+ {
+   "codigo": 203,
+   "nombre": "Venda de algodon (jgo. x 4)",
+   "precio": 1820,
+   "iva": 21
+ },
+ {
+   "codigo": 79,
+   "nombre": "Venda el�stica c/ abrojo x 4 U",
+   "precio": 2416.4,
+   "iva": 21
+ },
+ {
+   "codigo": 819,
+   "nombre": "Venta veh�culo",
+   "precio": 1990950.23,
+   "iva": 10.5
+ },
+ {
+   "codigo": 13,
+   "nombre": "Vetalgina x 100 ml.",
+   "precio": 2825.2,
+   "iva": 21
+ },
+ {
+   "codigo": 234,
+   "nombre": "Vetanarcol x 50 ml.",
+   "precio": 119,
+   "iva": 21
+ },
+ {
+   "codigo": 587,
+   "nombre": "Vetanbiotic x 1 Kg.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 478,
+   "nombre": "Vetanbiotic x 1 kg",
+   "precio": 6061.5,
+   "iva": 21
+ },
+ {
+   "codigo": 716,
+   "nombre": "Vetancid Max x 1 Lts.",
+   "precio": 2550,
+   "iva": 21
+ },
+ {
+   "codigo": 540,
+   "nombre": "Vetancid Max x 5 lts.",
+   "precio": 8176,
+   "iva": 21
+ },
+ {
+   "codigo": 586,
+   "nombre": "Veteglan x 20 ml.",
+   "precio": 2528.5,
+   "iva": 21
+ },
+ {
+   "codigo": 718,
+   "nombre": "Veteglan x 50 Ml.",
+   "precio": 5167.5,
+   "iva": 21
+ },
+ {
+   "codigo": 197,
+   "nombre": "Vigantol ADE x 1 cn.",
+   "precio": 49,
+   "iva": 21
+ },
+ {
+   "codigo": 6,
+   "nombre": "Vigantol ADE x 100 ml.",
+   "precio": 4411.93,
+   "iva": 21
+ },
+ {
+   "codigo": 704,
+   "nombre": "Viral Feedlot x 50 Ds.",
+   "precio": 0,
+   "iva": 21
+ },
+ {
+   "codigo": 156,
+   "nombre": "Vitamina B1 3 x 50 ml.",
+   "precio": 150.05,
+   "iva": 21
+ },
+ {
+   "codigo": 231,
+   "nombre": "Vitamina B12 x 50 ml.",
+   "precio": 110.88,
+   "iva": 21
+ },
+ {
+   "codigo": 102,
+   "nombre": "Volt�metro cinco luces Peon",
+   "precio": 2871.4,
+   "iva": 10.5
+ },
+ {
+   "codigo": 664,
+   "nombre": "vacunaci�n contra carbunclo",
+   "precio": 2.1,
+   "iva": 21
+ },
+ {
+   "codigo": 205,
+   "nombre": "venta hacienda",
+   "precio": 0,
+   "iva": 10.5
+ },
+ {
+   "codigo": 797,
+   "nombre": "Xilacina 100 x 50 ml",
+   "precio": 3570,
+   "iva": 21
+ },
+ {
+   "codigo": 770,
+   "nombre": "Xylacina x 50ml.",
+   "precio": 1764,
+   "iva": 21
+ },
+ {
+   "codigo": 390,
+   "nombre": "Yapa larga",
+   "precio": 2450,
+   "iva": 21
+ },
+ {
+   "codigo": 585,
+   "nombre": "Yodo doble x 250 ml.",
+   "precio": 999,
+   "iva": 21
+ }
+]

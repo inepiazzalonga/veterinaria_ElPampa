@@ -1,0 +1,68 @@
+.navbar-contacto{
+    display: inline-block;
+    .navbar-brand{
+        width: 5em;
+        height: 5em;
+    }
+}
+.contacto{
+    height: 600px;
+    background-color: $background;
+    padding-top: 5em;
+    padding-left: 2em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    .mapa{
+        width: 50%;
+    }
+    .form{
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 1em;
+        #name{
+            width: 25em;
+            border-style: none;
+            outline: none;
+            border-bottom: 1px $parragraph solid;
+            background-color: transparent;
+            text-align: center;
+            font-family: $raleway;
+            font-weight: bold;
+        }
+        #email{
+            @extend #name;
+        }
+        #select{
+            @extend #name;
+            option{
+                font-weight: bold;
+            }
+        }
+        #textArea{
+            width: 25em;            
+            outline: none;           
+            background-color: transparent;
+            text-align: center;
+            font-family: $raleway;
+            font-weight: bold;
+            border-style: 1px $parragraph solid;
+        }
+        .enviar{
+            border-style: none;
+            background-color: $button;
+            text-align: center;
+            font-family: $raleway;
+            width: 15em;
+            border-radius: 30px;
+            padding: 0.5em;
+            color: #fff;
+            &:hover{
+                transform: scale(1.03);
+            }
+        }
+    }
+}

@@ -1,0 +1,149 @@
+#servicios {
+    height: max-content;
+    background-color: $background;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+
+    .servicios {
+        width: 90%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 3em;
+
+
+        .servicios1 {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 5em;
+
+            #sanidad {
+
+                width: 12em;
+                height: 8em;
+                padding: 2em;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+
+                .servTit {
+                    text-align: center;
+                }
+
+                h3 {
+                    text-align: center;
+                    font-size: 18px;
+                    font-family: $raleway;
+                    color: $parragraph;
+                    font-weight: bolder;
+                }
+
+                img {
+                    width: 5em;
+                    height: 5em;
+                    margin-top: 1em;
+                }
+
+                .masInfo {
+                    width: 7em;
+                    margin-top: 1em;
+
+                    &:hover {
+                        transform: scale(1.1);
+                        border-style: none;
+                    }
+                }
+            }
+
+            #reproduccion {
+                @extend #sanidad;
+            }
+
+            #analisis {
+                @extend #sanidad;
+            }
+
+            #asesoramiento {
+                @extend #sanidad;
+            }
+
+
+
+
+        }
+
+        .servicios2 {
+            @extend .servicios1
+        }
+
+        button {
+            background-color: $button;
+            color: $button-text;
+            font-family: $raleway;
+            padding: 0.5em;
+            width: 10em;
+            border-style: none;
+            border-radius: 30px;
+
+            &:hover {
+                border-style: solid;
+                border-width: 1px;
+                border-color: $button;
+                transition: 1s;
+                transform: scale(1.1);
+            }
+        }
+    }
+
+    .serviciosInfo {
+        height: max-content;
+        width: 90%;
+        padding: 1em;
+        background-color: rgba(255, 255, 255, 0.831);
+        border-radius: 30px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 7em;
+
+        h3 {
+            text-align: center;
+            margin-top: 1em;
+            @include titulo;
+        }
+
+        h2 {
+            @include titulo;
+            margin-top: 1em;
+        }
+
+        p {
+            @include texto;
+            font-size: 20px;
+            color: $parragraph;
+            padding: 1em;
+        }
+    }
+}
+
+@media screen and (min-width:900px) {
+    #servicios {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+
+        .servicios {
+            width: 50%;
+            
+        }
+
+        .serviciosInfo {
+            width: 50%;
+        }
+    }
+
+}

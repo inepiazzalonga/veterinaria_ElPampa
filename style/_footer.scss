@@ -1,0 +1,99 @@
+.footer {
+    width: 100%;
+    height: fit-content;
+    background-color: $button-text;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1em;
+
+    .footer1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+
+        .logoFooter {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 1em;
+
+
+            img {
+                width: 7em;
+                height: 7em;
+            }
+
+            p {
+                @include texto;
+                font-size: 18px;
+            }
+        }
+
+        .mapaSitio {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 1em;
+
+            @include borderFooter;
+
+            a {
+                @include texto;
+                font-size: 14px;
+                margin-top: 1em;
+                font-weight: bold;
+                text-decoration: none;
+            }
+        }
+
+    }
+
+    .footer2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 2em;
+        padding: 1em;
+
+        .suscribe {
+            margin-right: 4em;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 1em;
+
+            .btn {
+                @include button;
+            }
+
+            h5 {
+                @include texto;
+
+            }
+        }
+
+        .redes {
+            display: flex;
+            flex-direction: column;
+
+            a img {
+                width: 2em;
+                height: 2em;
+                margin-top: 1em;
+                margin-bottom: 0.5em;
+            }
+        }
+
+    }
+
+}
+
+@media screen and (min-width: 900px) {
+    .footer {
+        display: flex;
+        flex-direction: row;
+    }
+
+}

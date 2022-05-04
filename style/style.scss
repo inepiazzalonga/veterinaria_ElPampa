@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;500&family=Open+Sans:wght@300&family=Playfair+Display&family=Poppins:wght@200&family=Raleway:wght@200&display=swap');
+
+// fuentes
+$montserrat:'Montserrat',sans-serif;
+$open-sans: 'Open Sans',sans-serif;
+$play-fair: 'Playfair Display',serif;
+$poppins: 'Poppins',sans-serif;
+$raleway: 'Raleway',sans-serif;
+
+// colores
+$background: #f9f4ef;
+$headline: #09113a;
+$parragraph: #716040;
+$button: #bea97e;
+$button-text: #fffffe;
+
+// mixin
+@mixin titulo {
+    color: $headline;
+    text-align: center;
+    font-family: $raleway;
+    font-size: 40px;
+}
+
+@mixin subtitulo {
+    color: $headline;
+    text-align: center;
+    font-family: $raleway;
+    font-size: 35px;
+}
+
+@mixin texto {
+    color: $parragraph;
+    text-align: justify;
+    font-size: 20px;
+    font-family: $raleway;
+}
+
+@mixin button {
+    background-color: $button;
+    color: $button-text;
+    font-family: $raleway;
+    padding: 0.5em;
+    width: 10em;
+    margin-left: 10em;
+    border-style: none;
+    border-radius: 2%;
+
+    &:hover {
+        transform: scale(1.1);
+    }
+}
+
+@mixin footer-p {
+    color: $color4;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 0.5em;
+}
+
+@mixin borderFooter {
+    border-left-color: $button;
+    border-left-style: solid;
+    border-left-width: 1px;
+    padding: 2em;
+}
+
+// style
+.navbar {
+    position: fixed;
+    background-color: none;
+    width: 100%;
+    height: 4em;
+    opacity: 80%;
+
+    .navbar-brand {
+        img {
+            width: 5em;
+            height: auto;
+        }
+    }
+    .nav-link{
+        font-family: $montserrat;
+        color: #634f28;
+        font-weight: 500;
+        &:hover{
+            border-bottom: 2px $parragraph solid;
+        }
+    }
+}
+
+
+#home {
+    width: 100%;
+    height: 625px;
+    background-image: url(../fotos/IMG_0464.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+@media screen and (min-width: 600px) {
+    .navbar {
+        position: fixed;
+        background-color: none;
+        width: 100%;
+        height: 4em;
+        opacity: 80%;
+    
+        .navbar-brand {
+            img {
+                width: 5em;
+                height: auto;
+            }
+        }
+        .nav-link{
+            font-family: $montserrat;
+            color: #634f28;
+            font-weight: 500;
+            &:hover{
+                border-bottom: 2px $parragraph solid;
+            }
+        }
+    }
+    
+    
+    #home {
+        width: 100%;
+        height: 625px;
+        background-image: url(../fotos/IMG_0464.JPG);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: bottom;
+    }
+    
+}
+
+
+@import "nosotros";
+@import "servicios";
+@import "footer";
+@import "contacto";
